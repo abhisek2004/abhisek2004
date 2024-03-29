@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![logo](https://github.com/abhisek2004/abhisek2004/blob/main/Web%20Developer%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm ABHISEK PANDA</h1>
 <h3 align="center">Aspiring Web Developer || 🌟 Frontend Enthusiast || MERN , PYTHON , DSA || BTech CSE</h3>
 
