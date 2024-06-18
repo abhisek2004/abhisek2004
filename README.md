@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=abhisek2004)](https://github.com/ryo-ma/github-profile-trophy)
-https://github-profile-trophy.vercel.app/?username=abhisek2004&theme=algolia
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src=" https://github-profile-trophy.vercel.app/?username=abhisek2004&theme=algolia" alt="abhisek2004" /></a> </p> 
 
 
 <p align="left"> <a href="https://twitter.com/abhisek_2003" target="blank"><img src="https://img.shields.io/twitter/follow/abhisek_2003?logo=twitter&style=for-the-badge" alt="abhisek_2003" /></a> </p>
