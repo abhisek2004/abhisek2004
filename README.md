@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=abhisek2004)](https://github.com/ryo-ma/github-profile-trophy)
 
+https://github-profile-trophy.vercel.app/?username=abhisek2004&no-bg=true
+
 <p align="left"> <a href="https://twitter.com/abhisek_2003" target="blank"><img src="https://img.shields.io/twitter/follow/abhisek_2003?logo=twitter&style=for-the-badge" alt="abhisek_2003" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
