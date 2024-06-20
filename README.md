@@ -27,6 +27,12 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=abhisek2004)](https://github.com/ryo-ma/github-profile-trophy)
 
+
+<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=abhisek2004&column=10&theme=gruvbox&no-frame=true"/>
+</a>
+
 <a href="https://github-profile-trophy.vercel.app/?username=abhisek2004&no-bg=true">
 
 <p align="left"> <a href="https://twitter.com/abhisek_2003" target="blank"><img src="https://img.shields.io/twitter/follow/abhisek_2003?logo=twitter&style=for-the-badge" alt="abhisek_2003" /></a> </p>
