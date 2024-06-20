@@ -21,17 +21,16 @@ Here are some ideas to get you started:
 
 <img align="right" alt="coading" width="400" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=abhisek2004&column=10&theme=gruvbox&no-frame=true"/>
+</a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisek2004&label=Profile%20views&color=0e75b6&style=flat" alt="abhisek2004" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=abhisek2004&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=abhisek2004)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=abhisek2004&column=10&theme=gruvbox&no-frame=true"/>
-</a>
 
 <a href="https://github-profile-trophy.vercel.app/?username=abhisek2004&no-bg=true">
 
