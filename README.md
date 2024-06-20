@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <br>
 <h2>🏆 Github Profile Trophy</h2>
 
-<[![trophy](https://github-profile-trophy.vercel.app/?username=abhisek2004&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=abhisek2004&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 [![trophy](https://github-profile-trophy.vercel.app/?username=abhisek2004)](https://github.com/ryo-ma/github-profile-trophy)
 <a href="https://github-profile-trophy.vercel.app/?username=abhisek2004&no-bg=true">
 
