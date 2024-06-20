@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <h2>🏆 Github Profile Trophy</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=abhisek2004&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=abhisek2004)](https://github.com/ryo-ma/github-profile-trophy)
+
 <a href="https://github-profile-trophy.vercel.app/?username=abhisek2004&no-bg=true">
 
 <p align="left"> <a href="https://twitter.com/abhisek_2003" target="blank"><img src="https://img.shields.io/twitter/follow/abhisek_2003?logo=twitter&style=for-the-badge" alt="abhisek_2003" /></a> </p>
