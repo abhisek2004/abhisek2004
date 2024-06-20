@@ -34,8 +34,6 @@ Here are some ideas to get you started:
 <br>
 <br>
 <h2>🏆 Github Profile Trophy</h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisek2004&label=Profile%20views&color=0e75b6&style=flat" alt="abhisek2004" /> </p>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=abhisek2004&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=abhisek2004)](https://github.com/ryo-ma/github-profile-trophy)
@@ -43,7 +41,7 @@ Here are some ideas to get you started:
 <a href="https://github-profile-trophy.vercel.app/?username=abhisek2004&no-bg=true">
 
 <p align="left"> <a href="https://twitter.com/abhisek_2003" target="blank"><img src="https://img.shields.io/twitter/follow/abhisek_2003?logo=twitter&style=for-the-badge" alt="abhisek_2003" /></a> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisek2004&label=Profile%20views&color=0e75b6&style=flat" alt="abhisek2004" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/abhisek2003panda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abhisek2003panda" height="30" width="40" /></a>
