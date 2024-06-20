@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm ABHISEK PANDA</h1>
 <h3 align="center">Aspiring Web Developer || 🌟 Frontend Enthusiast || MERN , PYTHON , DSA || BTech CSE</h3>
-
 <img align="right" alt="coading" width="400" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
 
 <!--
@@ -27,7 +26,7 @@ Here are some ideas to get you started:
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=abhisek2004&column=10&theme=gruvbox&no-frame=true"/>
 </a>
 -->
-
+<br>
 <h2>🏆 Github Profile Trophy</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisek2004&label=Profile%20views&color=0e75b6&style=flat" alt="abhisek2004" /> </p>
 
