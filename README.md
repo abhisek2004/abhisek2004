@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <a href="https://github-profile-trophy.vercel.app/?username=abhisek2004&no-bg=true">
 
-<h3 align="left">Connect with me:</h3>
+### 🌐 Socials:
 <p align="left">
 <a href="https://codepen.io/abhisek2003panda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abhisek2003panda" height="30" width="40" /></a>
 <a href="https://twitter.com/abhisek_2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhisek_2003" height="30" width="40" /></a>
