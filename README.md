@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <a href="https://www.hackerearth.com/@abhisek panda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@abhisek panda" height="30" width="40" /></a>
 <a href="https://discord.gg/abhisek2004panda_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="abhisek2004panda_" height="30" width="40" /></a>
 </p>
-
+# 💻 Tech Stack:
 <h3 align="left">Languages and Tools:</h3>
 <p <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="30" alt="html5 logo"  />
