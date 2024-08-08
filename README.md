@@ -120,7 +120,7 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhisek2004&show_icons=true&locale=en" alt="abhisek2004" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisek2004&" alt="abhisek2004" /></p>
+
 
 ### 🔝 Top Contributed Repo
 
