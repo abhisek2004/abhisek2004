@@ -115,6 +115,9 @@ Here are some ideas to get you started:
 </div>
  </p>
 
+ ## Holopin badges👀
+[![ @abhisek2004's Holopin badges](https://holopin.me/abhisek2004)](https://holopin.io/abhisek2004)
+
 ### 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisek2004&show_icons=true&locale=en&layout=compact" alt="abhisek2004" /></p>
 
