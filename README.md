@@ -119,17 +119,21 @@ Here are some ideas to get you started:
 [![ @abhisek2004's Holopin badges](https://holopin.me/abhisek2004)](https://holopin.io/abhisek2004)
 
 ### 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisek2004&show_icons=true&locale=en&layout=compact" alt="abhisek2004"  /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisek2004&show_icons=true&locale=en&layout=compact&theme=dark" alt="abhisek2004" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhisek2004&show_icons=true&locale=en" alt="abhisek2004" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhisek2004&show_icons=true&locale=en&theme=dark" alt="abhisek2004" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisek2004&" alt="abhisek2004" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisek2004&theme=dark" alt="abhisek2004" /></p>
 
 <div align="left">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhisek2004&theme=github_dark" />
+  
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhisek2004&theme=github_dark"  />
+  
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhisek2004&theme=github_dark"  />
+  
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhisek2004&theme=github_dark"/>
+  
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhisek2004&theme=github_dark" />
 </div>
 
