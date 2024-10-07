@@ -132,10 +132,10 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhisek2004&theme=github_dark" />
 </div>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisek2004&show_icons=true&locale=en&layout=compact&theme=dark" alt="abhisek2004" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhisek2004&show_icons=true&locale=en&theme=dark" alt="abhisek2004" /></p>
-
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisek2004&show_icons=true&locale=en&layout=compact&theme=dark" alt="abhisek2004" style="margin-right: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=abhisek2004&show_icons=true&locale=en&theme=dark" alt="abhisek2004" />
+</div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisek2004&theme=dark" alt="abhisek2004" /></p>
 
 
