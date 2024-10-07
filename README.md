@@ -41,20 +41,56 @@ Here are some ideas to get you started:
 <a href="https://github-profile-trophy.vercel.app/?username=abhisek2004&no-bg=true">
 
 ### 🌐 Socials:
-<p align="left">
-<a href="https://codepen.io/abhisek2003panda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abhisek2003panda" height="30" width="40" /></a>
-<a href="https://twitter.com/abhisek_2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhisek_2003" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abhisekpanda2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhisekpanda2004" height="30" width="40" /></a>
-<a href="https://fb.com/abhisekpanda2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhisekpanda2003" height="30" width="40" /></a>
-<a href="https://instagram.com/abhisekpanda2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhisekpanda2003" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/abhisek2003panda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abhisek2003panda" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/abhisekpanda03" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhisekpanda03" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/abhisekpanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhisekpanda" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/abhisek_2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abhisek_2003" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abhisekpanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhisekpanda" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@abhisek panda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@abhisek panda" height="30" width="40" /></a>
-<a href="https://discord.gg/abhisek2004panda_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="abhisek2004panda_" height="30" width="40" /></a>
-</p>
+<table>
+    <tr>
+        <td><strong>CodePen</strong></td>
+        <td><a href="https://codepen.io/abhisek2003panda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abhisek2003panda" height="30" width="40" /></a></td>
+    </tr>
+    <tr>
+        <td><strong>Twitter</strong></td>
+        <td><a href="https://twitter.com/abhisek_2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhisek_2003" height="30" width="40" /></a></td>
+    </tr>
+    <tr>
+        <td><strong>LinkedIn</strong></td>
+        <td><a href="https://linkedin.com/in/abhisekpanda2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhisekpanda2004" height="30" width="40" /></a></td>
+    </tr>
+    <tr>
+        <td><strong>Facebook</strong></td>
+        <td><a href="https://fb.com/abhisekpanda2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhisekpanda2003" height="30" width="40" /></a></td>
+    </tr>
+    <tr>
+        <td><strong>Instagram</strong></td>
+        <td><a href="https://instagram.com/abhisekpanda2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhisekpanda2003" height="30" width="40" /></a></td>
+    </tr>
+    <tr>
+        <td><strong>YouTube</strong></td>
+        <td><a href="https://www.youtube.com/c/abhisek2003panda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abhisek2003panda" height="30" width="40" /></a></td>
+    </tr>
+    <tr>
+        <td><strong>CodeChef</strong></td>
+        <td><a href="https://www.codechef.com/users/abhisekpanda03" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhisekpanda03" height="30" width="40" /></a></td>
+    </tr>
+    <tr>
+        <td><strong>HackerRank</strong></td>
+        <td><a href="https://www.hackerrank.com/abhisekpanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhisekpanda" height="30" width="40" /></a></td>
+    </tr>
+    <tr>
+        <td><strong>Codeforces</strong></td>
+        <td><a href="https://codeforces.com/profile/abhisek_2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abhisek_2003" height="30" width="40" /></a></td>
+    </tr>
+    <tr>
+        <td><strong>LeetCode</strong></td>
+        <td><a href="https://www.leetcode.com/abhisekpanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhisekpanda" height="30" width="40" /></a></td>
+    </tr>
+    <tr>
+        <td><strong>HackerEarth</strong></td>
+        <td><a href="https://www.hackerearth.com/@abhisekpanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@abhisekpanda" height="30" width="40" /></a></td>
+    </tr>
+    <tr>
+        <td><strong>Discord</strong></td>
+        <td><a href="https://discord.gg/abhisek2004panda_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="abhisek2004panda_" height="30" width="40" /></a></td>
+    </tr>
+</table>
 
 <br>
 
