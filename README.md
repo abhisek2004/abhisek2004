@@ -133,10 +133,6 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisek2004&label=Profile%20views&color=0e75b6&style=flat" alt="abhisek2004" /> </p>
 
 
-###
 
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
