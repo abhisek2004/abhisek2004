@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 
 
 ### <h3> 💻 Languages, Tools and Technologies 🚀 </h3>
+<h3> Languages, Tools and Technologies 🚀 </h3>
 <table>
     <tr>
         <td><strong>Programming Languages</strong></td>
@@ -76,13 +77,14 @@ Here are some ideas to get you started:
     </tr>
     <tr>
         <td><strong>Design Tools</strong></td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=figma,canva,adobephotoshop,adobepremierepro&theme=dark" /></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=figma,canva,adobephotoshop,adobepremierepro,excalidraw&theme=dark" /></td>
     </tr>
     <tr>
         <td><strong>Deployment Platforms</strong></td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vercel,netlify,Streamlit, GitHub Pages&theme=dark" /></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vercel,strapi,netlify,github&theme=dark" /></td>
     </tr>
 </table>
+<br>
 <br>
 
  ## Holopin badges👀
