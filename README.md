@@ -56,9 +56,9 @@ Here are some ideas to get you started:
 <a href="https://discord.gg/abhisek2004panda_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="abhisek2004panda_" height="30" width="40" /></a>
 </p>
 
-
+<br>
+<br>
 ### <h3> 💻 Languages, Tools and Technologies 🚀 </h3>
-<h3> Languages, Tools and Technologies 🚀 </h3>
 <table>
     <tr>
         <td><strong>Programming Languages</strong></td>
