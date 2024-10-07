@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![logo](https://github.com/abhisek2004/abhisek2004/blob/main/Web%20Developer%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm ABHISEK PANDA</h1>
-<h3 align="center">Aspiring Web Developer || 🌟 Frontend Enthusiast || MERN ,JAVA & DSA || BTech CSE</h3>
+<h3 align="center"> Full Stack Web Developer || 🌟 Frontend Enthusiast || MERN ,JAVA & DSA || BTech CSE</h3>
 <img align="right" alt="coading" width="400" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
 
 <br>
@@ -30,10 +30,14 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
-  <p><strong>"🎓 College. ☕️ Coffee. 💻 Code. Repeat."
-      <br>
-      <br> 
-      Vibing to: 🎧</strong></p>
+  <div align="center">
+    <p><strong>"🎓 College. ☕️ Coffee. 💻 Code. Repeat."
+        <br>
+        <br> 
+        Vibing to: 🎧</strong></p>
+</div>
+
+      
 <h2>🏆 Github Profile Trophy</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=abhisek2004&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
