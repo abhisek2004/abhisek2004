@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 <table>
     <tr>
         <td><strong>Programming Languages</strong></td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=c,java,python&theme=dark" /></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=c,c++,java,python&theme=dark" /></td>
     </tr>
     <tr>
         <td><strong>Database Technologies</strong></td>
@@ -80,7 +80,7 @@ Here are some ideas to get you started:
     </tr>
     <tr>
         <td><strong>Deployment Platforms</strong></td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vercel,netlify,heroku&theme=dark" /></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vercel,netlify,streamlit&theme=dark" /></td>
     </tr>
 </table>
 <br>
