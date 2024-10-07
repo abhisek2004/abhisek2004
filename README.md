@@ -125,7 +125,7 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisek2004&" alt="abhisek2004" /></p>
 
-<div align="center">
+<div align="left">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhisek2004&theme=github_dark" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhisek2004&theme=github_dark"  />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhisek2004&theme=github_dark"  />
