@@ -76,10 +76,16 @@ Here are some ideas to get you started:
         <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode&theme=dark" /></td>
     </tr>
     <tr>
-        <td><strong>Design Tools</strong></td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=figma,canva,adobephotoshop,adobepremierepro,excalidraw&theme=dark" /></td>
-    </tr>
-    <tr>
+    <td><strong>Design Tools</strong></td>
+    <td style="display: flex; align-items: center;">
+        <img height="40" src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" />
+        <img height="40" src="https://skillicons.dev/icons?i=canva&theme=dark" alt="Canva" />
+        <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobe/photoshop.svg" alt="Adobe Photoshop" />
+        <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobe/premierepro.svg" alt="Adobe Premiere Pro" />
+        <img height="40" src="https://skillicons.dev/icons?i=excalidraw&theme=dark" alt="Excalidraw" />
+    </td>
+</tr>  
+<tr>
         <td><strong>Deployment Platforms</strong></td>
         <td><img height="40" src="https://skillicons.dev/icons?i=vercel,netlify,github&theme=dark" /></td>
     </tr>
