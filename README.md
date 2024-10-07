@@ -80,7 +80,7 @@ Here are some ideas to get you started:
     </tr>
     <tr>
         <td><strong>Deployment Platforms</strong></td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vercel,netlify,streamlit&theme=dark" /></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vercel,netlify,Streamlit, GitHub Pages&theme=dark" /></td>
     </tr>
 </table>
 <br>
