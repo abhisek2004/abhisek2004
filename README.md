@@ -57,7 +57,6 @@ Here are some ideas to get you started:
 </p>
 
 <br>
-<br>
 
 ### <h3> 💻 Languages, Tools and Technologies 🚀 </h3>
 <table>
