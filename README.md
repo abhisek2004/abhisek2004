@@ -150,9 +150,8 @@ Here are some ideas to get you started:
         </td>
     </tr>
 </table>
-<br>
-
-###<h3> 💻 Languages, Tools and Technologies 🚀 </h3>
+<!-- <br> -->
+<h3> 💻 Languages, Tools and Technologies 🚀 </h3>
 
 <table>
     <tr>
@@ -185,9 +184,7 @@ Here are some ideas to get you started:
     </tr>
 </table>
 <br>
-<br>
-
- ## Holopin badges👀
+ ### Holopin badges👀
 [![ @abhisek2004's Holopin badges](https://holopin.me/abhisek2004)](https://holopin.io/abhisek2004)
 
 ### 📊 GitHub Stats:
