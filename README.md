@@ -50,8 +50,8 @@ Here are some ideas to get you started:
 <a href="https://github-profile-trophy.vercel.app/?username=abhisek2004&no-bg=true">
 
 
-### 🌐 Socials:
 
+### 🌐 Socials:
 <table>
     <tr>
         <td><strong>CodePen</strong></td>
