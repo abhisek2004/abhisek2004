@@ -41,8 +41,6 @@ Here are some ideas to get you started:
   </strong></p>
 </div>
 
-<br><br><br><br><br><br>
-
 <h2 align="center">🏆 Github Profile Trophy</h2>
 
 
