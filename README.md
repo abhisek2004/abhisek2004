@@ -108,14 +108,14 @@ Here are some ideas to get you started:
             </a>
         </td>
     </tr>
-    <tr>
+<!--     <tr>
         <td><strong>Dev.to</strong></td>
         <td>
             <a href="https://dev.to/abhisek_panda" target="blank">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Dev_to_logo.svg/2048px-Dev_to_logo.svg.png" alt="abhisek_panda" height="30" width="40" />
             </a>
         </td>
-    </tr>
+    </tr> -->
 </table>
 
 <!-- <br> -->
@@ -292,6 +292,9 @@ Here are some ideas to get you started:
 
 <a href="https://www.linkedin.com/in/abhisekpanda2004/" target="_blank">
 <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/abhisek_panda" target="_blank">
+<img src="./dev_to.png" width=50 height=50 alt="dev_kiran" style="margin-bottom: 5px;" />
 </a>
 </div>
 <br/>
