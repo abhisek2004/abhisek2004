@@ -51,22 +51,96 @@ Here are some ideas to get you started:
 
 ### 🌐 Socials:
 
-<div style="border: 1px solid #ccc; border-radius: 8px; padding: 16px; background-color: #f9f9f9; width: 300px; margin: auto;">
-    <ul style="list-style-type: none; padding: 0;">
-        <li><strong>CodePen:</strong> <a href="https://codepen.io/abhisek2003panda" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abhisek2003panda" height="30" width="40" /></a></li>
-        <li><strong>Twitter:</strong> <a href="https://twitter.com/abhisek_2003" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhisek_2003" height="30" width="40" /></a></li>
-        <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/abhisekpanda2004" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhisekpanda2004" height="30" width="40" /></a></li>
-        <li><strong>Facebook:</strong> <a href="https://fb.com/abhisekpanda2003" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhisekpanda2003" height="30" width="40" /></a></li>
-        <li><strong>Instagram:</strong> <a href="https://instagram.com/abhisekpanda2003" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhisekpanda2003" height="30" width="40" /></a></li>
-        <li><strong>YouTube:</strong> <a href="https://www.youtube.com/c/abhisek2003panda" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abhisek2003panda" height="30" width="40" /></a></li>
-        <li><strong>CodeChef:</strong> <a href="https://www.codechef.com/users/abhisekpanda03" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhisekpanda03" height="30" width="40" /></a></li>
-        <li><strong>HackerRank:</strong> <a href="https://www.hackerrank.com/abhisekpanda" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhisekpanda" height="30" width="40" /></a></li>
-        <li><strong>Codeforces:</strong> <a href="https://codeforces.com/profile/abhisek_2003" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abhisek_2003" height="30" width="40" /></a></li>
-        <li><strong>LeetCode:</strong> <a href="https://www.leetcode.com/abhisekpanda" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhisekpanda" height="30" width="40" /></a></li>
-        <li><strong>HackerEarth:</strong> <a href="https://www.hackerearth.com/@abhisekpanda" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@abhisekpanda" height="30" width="40" /></a></li>
-        <li><strong>Discord:</strong> <a href="https://discord.gg/abhisek2004panda_" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="abhisek2004panda_" height="30" width="40" /></a></li>
-    </ul>
+### 🌐 Socials:
+
+<div style="display: flex; flex-direction: column; gap: 10px;">
+
+<div style="border: 1px solid #ccc; border-radius: 8px; padding: 10px; background-color: #f9f9f9;">
+        <strong>CodePen:</strong>
+        <a href="https://codepen.io/abhisek2003panda" target="blank">
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abhisek2003panda" height="30" width="40" />
+        </a>
+    </div>
+
+  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 10px; background-color: #f9f9f9;">
+        <strong>Twitter:</strong>
+        <a href="https://twitter.com/abhisek_2003" target="blank">
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhisek_2003" height="30" width="40" />
+        </a>
+    </div>
+
+  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 10px; background-color: #f9f9f9;">
+        <strong>LinkedIn:</strong>
+        <a href="https://linkedin.com/in/abhisekpanda2004" target="blank">
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhisekpanda2004" height="30" width="40" />
+        </a>
+    </div>
+
+  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 10px; background-color: #f9f9f9;">
+        <strong>Facebook:</strong>
+        <a href="https://fb.com/abhisekpanda2003" target="blank">
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhisekpanda2003" height="30" width="40" />
+        </a>
+    </div>
+
+  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 10px; background-color: #f9f9f9;">
+        <strong>Instagram:</strong>
+        <a href="https://instagram.com/abhisekpanda2003" target="blank">
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhisekpanda2003" height="30" width="40" />
+        </a>
+  </div>
+
+  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 10px; background-color: #f9f9f9;">
+        <strong>YouTube:</strong>
+        <a href="https://www.youtube.com/c/abhisek2003panda" target="blank">
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abhisek2003panda" height="30" width="40" />
+        </a>
+    </div>
+
+  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 10px; background-color: #f9f9f9;">
+        <strong>CodeChef:</strong>
+        <a href="https://www.codechef.com/users/abhisekpanda03" target="blank">
+            <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhisekpanda03" height="30" width="40" />
+        </a>
+    </div>
+
+  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 10px; background-color: #f9f9f9;">
+        <strong>HackerRank:</strong>
+        <a href="https://www.hackerrank.com/abhisekpanda" target="blank">
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhisekpanda" height="30" width="40" />
+        </a>
+    </div>
+
+  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 10px; background-color: #f9f9f9;">
+        <strong>Codeforces:</strong>
+        <a href="https://codeforces.com/profile/abhisek_2003" target="blank">
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abhisek_2003" height="30" width="40" />
+        </a>
+    </div>
+
+  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 10px; background-color: #f9f9f9;">
+        <strong>LeetCode:</strong>
+        <a href="https://www.leetcode.com/abhisekpanda" target="blank">
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhisekpanda" height="30" width="40" />
+        </a>
+    </div>
+
+  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 10px; background-color: #f9f9f9;">
+        <strong>HackerEarth:</strong>
+        <a href="https://www.hackerearth.com/@abhisekpanda" target="blank">
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@abhisekpanda" height="30" width="40" />
+        </a>
+    </div>
+
+  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 10px; background-color: #f9f9f9;">
+        <strong>Discord:</strong>
+        <a href="https://discord.gg/abhisek2004panda_" target="blank">
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="abhisek2004panda_" height="30" width="40" />
+        </a>
+    </div>
+
 </div>
+
 
 
 <br>
