@@ -294,7 +294,7 @@ Here are some ideas to get you started:
 <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 <a href="https://dev.to/abhisek_panda" target="_blank">
-<img src="./dev_to.png" width=50 height=50 alt="dev_kiran" style="margin-bottom: 5px;" />
+<img src="./dev_to.png" width=50 height=50 alt="abhisek_panda" style="margin-bottom: 5px;" />
 </a>
 </div>
 <br/>
