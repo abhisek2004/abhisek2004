@@ -62,46 +62,6 @@ Here are some ideas to get you started:
         </td>
     </tr>
     <tr>
-        <td><strong>Twitter</strong></td>
-        <td>
-            <a href="https://twitter.com/abhisek_2003" target="blank">
-                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhisek_2003" height="30" width="40" />
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td><strong>LinkedIn</strong></td>
-        <td>
-            <a href="https://linkedin.com/in/abhisekpanda2004" target="blank">
-                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhisekpanda2004" height="30" width="40" />
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td><strong>Facebook</strong></td>
-        <td>
-            <a href="https://fb.com/abhisekpanda2003" target="blank">
-                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhisekpanda2003" height="30" width="40" />
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td><strong>Instagram</strong></td>
-        <td>
-            <a href="https://instagram.com/abhisekpanda2003" target="blank">
-                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhisekpanda2003" height="30" width="40" />
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td><strong>YouTube</strong></td>
-        <td>
-            <a href="https://www.youtube.com/c/abhisek2003panda" target="blank">
-                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abhisek2003panda" height="30" width="40" />
-            </a>
-        </td>
-    </tr>
-    <tr>
         <td><strong>CodeChef</strong></td>
         <td>
             <a href="https://www.codechef.com/users/abhisekpanda03" target="blank">
@@ -146,6 +106,14 @@ Here are some ideas to get you started:
         <td>
             <a href="https://discord.gg/abhisek2004panda_" target="blank">
                 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="abhisek2004panda_" height="30" width="40" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td><strong>Dev.to</strong></td>
+        <td>
+            <a href="https://dev.to/abhisek_panda" target="blank">
+                <img src="https://d2fltix0v2e0sbp.cloudfront.net/dev.to/favicon.ico" alt="abhisek_panda" height="30" width="40" />
             </a>
         </td>
     </tr>
@@ -302,8 +270,32 @@ Here are some ideas to get you started:
 
 
 
+<!--Contact Section--> 
 
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center">
+  
+<a href="mailto:abhisek2004panda@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="kirannaragund197@gmail.com" style="margin-bottom: 5px;" />
+</a>
 
+<a href="https://x.com/ABHISEK_2003" target="_blank">
+<img src="./twitter.png" width=50 height=50 alt="kiran__a__n" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/abhisekpanda2003/" target="_blank">
+<img src="./instagram.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://github.com/abhisek2004" target="_blank">
+<img src="./github.png" width=50 height=50 alt="Kiran1689" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/abhisekpanda2004/" target="_blank">
+<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+</div>
+<br/>
 
 
 
