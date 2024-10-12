@@ -182,6 +182,27 @@ Here are some ideas to get you started:
 </div>
 
 
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=abhisek2004&=5&theme=github_dark&combine_all_yearly_contributions=true)
+
+<p align="left"> <a href="https://twitter.com/abhisek_2003" target="blank"><img src="https://img.shields.io/twitter/follow/abhisek_2003?logo=twitter&style=for-the-badge" alt="abhisek_2003" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisek2004&label=Profile%20views&color=0e75b6&style=flat" alt="abhisek2004" /> </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -209,25 +230,4 @@ Here are some ideas to get you started:
     <img src="https://readme-daily-quotes.vercel.app/api?author=Dale%20Carnegie&quote=People%20rarely%20succeed%20unless%20they%20have%20fun%20in%20what%20they%20are%20doing.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=abhisek2004&=5&theme=github_dark&combine_all_yearly_contributions=true)
-
-<p align="left"> <a href="https://twitter.com/abhisek_2003" target="blank"><img src="https://img.shields.io/twitter/follow/abhisek_2003?logo=twitter&style=for-the-badge" alt="abhisek_2003" /></a> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisek2004&label=Profile%20views&color=0e75b6&style=flat" alt="abhisek2004" /> </p>
-
 
