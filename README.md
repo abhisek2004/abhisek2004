@@ -193,19 +193,28 @@ Here are some ideas to get you started:
 <table width="100%">
   <tr>
     <td width="50%">
+      <h3 align="center"><strong>Rᴇᴘᴏs Pᴇʀ Lᴀɴɢᴜᴀɢᴇ</strong></h3>
       <p align="center">
         <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhisek2004&theme=github_dark" />
       </p>
+
+  <h3 align="center"><strong>Mᴏsᴛ Cᴏᴍᴍɪᴛ Lᴀɴɢᴜᴀɢᴇ</strong></h3>
       <p align="center">
         <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhisek2004&theme=github_dark" />
       </p>
+
+  <h3 align="center"><strong>Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhisek2004&theme=github_dark" />
       </p>
+
+  <h3 align="center"><strong>Pʀᴏᴅᴜᴄᴛɪᴠᴇ Tɪᴍᴇ</strong></h3>
       <p align="center">
         <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhisek2004&theme=github_dark" />
       </p>
-       <p align="center">
+
+  <h3 align="center"><strong>Pʀᴏfɪʟᴇ Dᴇᴛᴀɪʟs</strong></h3>
+      <p align="center">
         <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhisek2004&theme=github_dark" />
       </p>
     </td>
@@ -215,13 +224,18 @@ Here are some ideas to get you started:
       <p align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisek2004&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" style="margin-right: 10px;" />
       </p>
+
+  <h3 align="center"><strong>GitHub Stats</strong></h3>
       <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=abhisek2004&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
       </p>
+
+   <h3 align="center"><strong>Streak Stats</strong></h3>
       <p align="center">
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisek2004&theme=dark" alt="Streak Stats" />
       </p>
-      <h3 align="center"><strong>🔝 Top Contributed Repo</strong></h3>
+
+   <h3 align="center"><strong>🔝 Top Contributed Repo</strong></h3>
       <p align="center">
         <img align="center" src="https://github-contributor-stats.vercel.app/api?username=abhisek2004&=5&theme=github_dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
       </p>
@@ -229,7 +243,6 @@ Here are some ideas to get you started:
   </tr>
 </table>
 <br />
-
 
 
 <td width="50%">
