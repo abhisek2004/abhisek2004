@@ -280,7 +280,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://x.com/ABHISEK_2003" target="_blank">
-<img src="./twitter.png" width=50 height=50 alt="ABHISEK_2003" style="margin-bottom: 5px;" />
+<img src="./twitter.jpg" width=50 height=50 alt="ABHISEK_2003" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.instagram.com/abhisekpanda2003/" target="_blank">
