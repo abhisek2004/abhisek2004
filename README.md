@@ -21,40 +21,25 @@ Here are some ideas to get you started:
 <img align="right" alt="coading" width="900" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
 
 
-<!--Night Owl image-->
+<!-- Night Owl image -->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
+<br><br><br><br><br><br>
 
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-  <div align="center">
-    <p><strong>"🎓 College. ☕️ Coffee. 💻 Code. Repeat."
-        <br>
-        <br> 
-        Vibing to: 🎧</strong></p>
+<div align="center">
+  <p><strong>
+    "🎓 College. ☕️ Coffee. 💻 Code. Repeat."
+    <br><br>
+    Vibing to: 🎧
+  </strong></p>
 </div>
 
-      
-<h2>🏆 Github Profile Trophy</h2>
+<br><br><br><br><br><br>
+
+<h2 align="center">🏆 Github Profile Trophy</h2>
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=abhisek2004&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
