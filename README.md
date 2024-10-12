@@ -204,8 +204,8 @@ Here are some ideas to get you started:
 <br>
 <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisek2004&show_icons=true&locale=en&layout=compact&theme=dark" alt="abhisek2004" style="margin-right: 10px;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=abhisek2004&show_icons=true&locale=en&theme=dark" alt="abhisek2004" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisek2004&theme=dark" alt="abhisek2004" />
+    <img src="https://github-readme-stats.vercel.app/api?username=abhisek2004&show_icons=true&locale=en&bg_color=0,0,0&title_color=c56a90&text_color=ffffff" alt="abhisek2004" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisek2004&theme=dark&bg_color=0,0,0&title_color=c56a90&text_color=ffffff" alt="abhisek2004" />
 </div>
 
 
