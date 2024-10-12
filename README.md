@@ -111,12 +111,13 @@ Here are some ideas to get you started:
     </tr>
     <tr>
         <td><strong>Dev.to</strong></td>
-        <td>
-            <a href="https://dev.to/abhisek_panda" target="blank">
-                <img src="https://d2fltix0v2e0sbp.cloudfront.net/dev.to/favicon.ico" alt="abhisek_panda" height="30" width="40" />
-            </a>
-        </td>
-    </tr>
+    <td>
+    <a href="https://dev.to/abhisek_panda" target="blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Dev_to_logo.svg/2048px-Dev_to_logo.svg.png" alt="abhisek_panda" height="30" width="40" />
+    </a>
+    </td>
+
+  </tr>
 </table>
 <!-- <br> -->
 <h3> 💻 Languages, Tools and Technologies 🚀 </h3>
