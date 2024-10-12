@@ -184,7 +184,8 @@ Here are some ideas to get you started:
     </tr>
 </table>
 <br>
- ### Holopin badges👀
+
+ ## Holopin badges👀
 [![ @abhisek2004's Holopin badges](https://holopin.me/abhisek2004)](https://holopin.io/abhisek2004)
 
 ### 📊 GitHub Stats:
