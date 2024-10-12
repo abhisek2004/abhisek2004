@@ -188,25 +188,44 @@ Here are some ideas to get you started:
  ## Holopin badges👀
 [![ @abhisek2004's Holopin badges](https://holopin.me/abhisek2004)](https://holopin.io/abhisek2004)
 
-### 📊 GitHub Stats:
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
-<div align="left">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhisek2004&theme=github_dark" />
-  
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhisek2004&theme=github_dark"  />
-  
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhisek2004&theme=github_dark"  />
-  
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhisek2004&theme=github_dark"/>
-  
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhisek2004&theme=github_dark" />
-</div>
-<br>
-<div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisek2004&show_icons=true&locale=en&layout=compact&theme=dark" alt="abhisek2004" style="margin-right: 10px;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=abhisek2004&show_icons=true&locale=en&theme=dark" alt="abhisek2004" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisek2004&theme=dark" alt="abhisek2004" />
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhisek2004&theme=github_dark" />
+      </p>
+      <p align="center">
+        <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhisek2004&theme=github_dark" />
+      </p>
+      <p align="center">
+        <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhisek2004&theme=github_dark" />
+      </p>
+      <p align="center">
+        <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhisek2004&theme=github_dark" />
+      </p>
+      <p align="center">
+        <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhisek2004&theme=github_dark" />
+      </p>
+    </td>
+    
+  <td width="50%">
+      <h3 align="center"><strong>Additional Stats</strong></h3>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisek2004&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" style="margin-right: 10px;" />
+      </p>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=abhisek2004&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+      </p>
+      <p align="center">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisek2004&theme=dark" alt="Streak Stats" />
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
 
 
 <td width="50%">
