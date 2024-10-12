@@ -151,7 +151,9 @@ Here are some ideas to get you started:
     </tr>
 </table>
 <br>
+
 ###<h3> 💻 Languages, Tools and Technologies 🚀 </h3>
+
 <table>
     <tr>
         <td><strong>Programming Languages</strong></td>
