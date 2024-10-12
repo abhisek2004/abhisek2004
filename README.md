@@ -276,19 +276,19 @@ Here are some ideas to get you started:
 <div align="center">
   
 <a href="mailto:abhisek2004panda@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="kirannaragund197@gmail.com" style="margin-bottom: 5px;" />
+<img src="./gmail.png" width=50 height=50 alt="abhisek2004panda@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://x.com/ABHISEK_2003" target="_blank">
-<img src="./twitter.png" width=50 height=50 alt="kiran__a__n" style="margin-bottom: 5px;" />
+<img src="./twitter.png" width=50 height=50 alt="ABHISEK_2003" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.instagram.com/abhisekpanda2003/" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
+<img src="./instagram.png" width=50 height=50 alt="abhisekpanda2003" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://github.com/abhisek2004" target="_blank">
-<img src="./github.png" width=50 height=50 alt="Kiran1689" style="margin-bottom: 5px;" />
+<img src="./github.png" width=50 height=50 alt="abhisek2004" style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.linkedin.com/in/abhisekpanda2004/" target="_blank">
