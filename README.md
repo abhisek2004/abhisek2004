@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi 👋, I'm ABHISEK PANDA</h1>
 
 ![logo](https://github.com/abhisek2004/abhisek2004/blob/main/Web%20Developer%20Banner.png)
 
-<h1 align="center">Hi 👋, I'm ABHISEK PANDA</h1>
 <!-- <h3 align="center"> MERN , JAVA & DSA || Web Developer || 🌟 Frontend Enthusiast || BTech CSE</h3> -->
 <!-- <img align="right" alt="coading" width="900" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif"> -->
 <img align="right" alt="coading" width="900" src="./abhisekpanda.png">
