@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm ABHISEK PANDA</h1>
 <h3 align="center"> MERN , JAVA & DSA || Web Developer || 🌟 Frontend Enthusiast || BTech CSE</h3>
 <!-- <img align="right" alt="coading" width="900" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif"> -->
-<!-- <img align="right" alt="coading" width="900" src="./abhisekpanda.png"> -->
-[![Video Thumbnail](./thumbnail.png)](./abhisek.mp4)
+<img align="right" alt="coading" width="900" src="./abhisekpanda.png">
 
 <!-- Night Owl image -->
 <div>
