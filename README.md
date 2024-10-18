@@ -38,6 +38,19 @@ Here are some ideas to get you started:
 <br><br><br><br><br><br>-->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+
+🌟 **Frontend Enthusiast | MERN, Java & DSA | Aspiring Web Developer**
+
+👨‍🎓 I’m currently pursuing a **Bachelor of Technology** in **Computer Science** at **GIET University, Gunupur**. My journey in tech is fueled by a passion for mastering the **MERN Stack**, along with skills in **Python**, **Java**, and **Data Structures & Algorithms**.
+
+🏫 My academic path began at **St. Xavier's Sr. Secondary School, Jajpur Road**, where I completed both my Intermediate and Matriculation. I thrive on setting ambitious goals and constantly seek opportunities for growth and innovation.
+
+💬 One of my key strengths is effective communication, which helps me collaborate seamlessly within teams. I am goal-oriented and strive for excellence, fostering a supportive environment for collective success.
+
+🎨 I have a passion for crafting immersive user experiences through **frontend development**. Embracing challenges is part of my journey, and I’m eager to contribute my skills to impactful projects.
+
+🚀 I’m on the lookout for opportunities where I can bring my determination and commitment to teamwork, with aspirations to make meaningful contributions in the world of web development. My dream companies include **Microsoft**, **Samsung**, and **TCS**.
+
 <details>
   <summary>🏆 Certificates</summary>
   <br>
