@@ -235,24 +235,18 @@ Here are some ideas to get you started:
   </p>
 </td>-->
 <div align="center">
-
   <a>
     <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
   </a>
-
-  <div style="display: inline-block; text-align: center; width: 50%;">
-    <h3><strong>Latest Project</strong></h3>
-    <p>
-      <a href="https://github.com/abhisek2004/Minor-Project-I-Heart-Failure.git">
-        <img width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisek2004&repo=Minor-Project-I-Heart-Failure&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Minor-Project-I-Heart-Failure" />
-      </a>
-    </p>
-  </div>
-  
+      <h3><strong>Latest Project</strong></h3>
+      <p>
+        <a href="https://github.com/abhisek2004/Minor-Project-I-Heart-Failure.git">
+          <img width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisek2004&repo=Minor-Project-I-Heart-Failure&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Minor-Project-I-Heart-Failure" />
+        </a>
+      </p>
   <a>
     <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png">
   </a>
-
 </div>
 
 
