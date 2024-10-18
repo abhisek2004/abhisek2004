@@ -125,10 +125,11 @@ Here are some ideas to get you started:
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <div align="center" style="background-color: #f0f8ff; border-radius: 10px; padding: 20px;">
 
   <h2 style="color: #2e8b57;">🌟 Trying to Touch and Learn 1 New Thing Everyday! 🌟</h2>
-
   <p style="font-size: 18px; color: #555;">
     🌱 Embrace the adventure of learning and personal growth.
     ✨ Let your curiosity lead you to exciting new horizons!
@@ -136,7 +137,7 @@ Here are some ideas to get you started:
 
   <img src="https://img.shields.io/badge/Learning-📚-blue" alt="Learning Badge" style="border-radius: 5px;"/>
 </div>
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <!-- <br> -->
 <h3> 💻 Languages, Tools and Technologies 🚀 </h3>
