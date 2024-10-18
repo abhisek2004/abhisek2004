@@ -41,6 +41,11 @@ Here are some ideas to get you started:
 
 🌟 **Frontend Enthusiast | MERN, Java & DSA**
 
+<p align="center">"My name is 𝐀𝐛𝐡𝐢𝐬𝐞𝐤 𝐏𝐚𝐧𝐝𝐚, a name that signifies 'the one who brings joy' or 'the one who brings light.' I aspire to build a career alongside dedicated and passionate individuals who will help me explore my potential and broaden my horizons. I am eager to work as a key player in a dynamic and creative environment, leveraging all my professional and technical skills to make a meaningful impact."</p>
+
+
+
+
 👨‍🎓 I’m currently pursuing a **Bachelor of Technology** in **Computer Science** at **GIET University, Gunupur**. My journey in tech is fueled by a passion for mastering the **MERN Stack**, along with skills in **Java**, and **Data Structures & Algorithms**.
 
 🏫 My academic path began at **St. Xavier's Sr. Secondary School, Jajpur Road**, where I completed both my Intermediate and Matriculation. I thrive on setting ambitious goals and constantly seek opportunities for growth and innovation.
