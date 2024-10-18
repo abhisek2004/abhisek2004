@@ -36,7 +36,8 @@ Here are some ideas to get you started:
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <h1 align="center">Hi 👋, I'm ABHISEK PANDA</h1>
 
-🌟 **Frontend Enthusiast | MERN, Java & DSA**
+
+### 🌟 **Frontend Enthusiast | MERN, Java & DSA** | CSE Pre Final Year | Tech Innovator
 
 <div align="center">
   <a href="https://www.linkedin.com/in/abhisekpanda2004/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
