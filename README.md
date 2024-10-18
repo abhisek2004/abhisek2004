@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" height="80%" width="100%">
 
-<h1 align="center">Hi 👋, I'm ABHISEK PANDA</h1>
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <!--![logo](https://github.com/abhisek2004/abhisek2004/blob/main/Web%20Developer%20Banner.png)-->
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <br><br><br><br><br><br>
 <br><br><br><br><br><br>-->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
+<h1 align="center">Hi 👋, I'm ABHISEK PANDA</h1>
 
 🌟 **Frontend Enthusiast | MERN, Java & DSA**
 
