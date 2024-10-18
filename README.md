@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 🌟 **Frontend Enthusiast | MERN, Java & DSA**
 
-<p align="center">"My name is 𝐀𝐛𝐡𝐢𝐬𝐞𝐤 𝐏𝐚𝐧𝐝𝐚, a name that signifies 'the one who brings joy' or 'the one who brings light.' I aspire to build a career alongside dedicated and passionate individuals who will help me explore my potential and broaden my horizons. I am eager to work as a key player in a dynamic and creative environment, leveraging all my professional and technical skills to make a meaningful impact."</p>
+<p align="center">"Hi there! I’m 𝐀𝐛𝐡𝐢𝐬𝐞𝐤 𝐏𝐚𝐧𝐝𝐚, My name signifies 'anointing' or 'consecration.' I’m on a journey to build a fulfilling career with dedicated and passionate people who can help me discover my potential. I’m excited to be a key player in a creative and dynamic environment, using my skills to make a positive impact along the way."</p>
 
 
 
