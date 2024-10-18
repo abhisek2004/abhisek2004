@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 ![logo](https://github.com/abhisek2004/abhisek2004/blob/main/Web%20Developer%20Banner.png)
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <!-- <h3 align="center"> MERN , JAVA & DSA || Web Developer || 🌟 Frontend Enthusiast || BTech CSE</h3> -->
 <!-- <img align="right" alt="coading" width="900" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif"> -->
 <img align="right" alt="coading" width="900" src="./abhisekpanda.png">
