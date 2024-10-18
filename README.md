@@ -181,8 +181,8 @@ Here are some ideas to get you started:
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 <table width="100%">
   <tr>
-      <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
     <td width="50%">
+      <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
       <h3 align="center"><strong>Rᴇᴘᴏs Pᴇʀ Lᴀɴɢᴜᴀɢᴇ</strong></h3>
       <p align="center">
         <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhisek2004&theme=github_dark" />
