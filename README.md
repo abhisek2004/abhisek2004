@@ -182,7 +182,6 @@ Here are some ideas to get you started:
 <table width="100%">
   <tr>
     <td width="50%">
-      <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
       <h3 align="center"><strong>Rᴇᴘᴏs Pᴇʀ Lᴀɴɢᴜᴀɢᴇ</strong></h3>
       <p align="center">
         <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhisek2004&theme=github_dark" />
@@ -208,7 +207,6 @@ Here are some ideas to get you started:
      <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png">  
      <h3 align="center"><strong>Additional Stats</strong></h3>
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisek2004&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
       </p>
   <h3 align="center"><strong>GitHub Stats</strong></h3>
       <p align="center">
