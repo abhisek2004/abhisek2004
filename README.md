@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 <img align="right" alt="coading" width="900" src="./abhisekpanda.png">
 
 <!-- Night Owl image -->
-<div>
+<!--<div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
+</div>-->
 <br><br><br><br><br><br>
 <br><br><br><br><br><br>
 <br><br><br><br><br><br>
