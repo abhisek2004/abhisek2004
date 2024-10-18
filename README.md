@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 
 <a href="https://github-profile-trophy.vercel.app/?username=abhisek2004&no-bg=true">
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h3> 📱 Social 🌐 </h3>
 <table>
@@ -121,6 +122,8 @@ Here are some ideas to get you started:
         </td>
     </tr> -->
 </table>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <div align="center" style="background-color: #f0f8ff; border-radius: 10px; padding: 20px;">
 
