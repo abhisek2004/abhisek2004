@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm ABHISEK PANDA</h1>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-    ![logo](https://github.com/abhisek2004/abhisek2004/blob/main/Web%20Developer%20Banner.png)
+<!--![logo](https://github.com/abhisek2004/abhisek2004/blob/main/Web%20Developer%20Banner.png)-->
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <!-- <h3 align="center"> MERN , JAVA & DSA || Web Developer || 🌟 Frontend Enthusiast || BTech CSE</h3> -->
