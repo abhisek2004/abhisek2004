@@ -171,6 +171,7 @@ Here are some ideas to get you started:
     </tr>
 </table>
 <br>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
  ## Holopin badges👀
 [![ @abhisek2004's Holopin badges](https://holopin.me/abhisek2004)](https://holopin.io/abhisek2004)
