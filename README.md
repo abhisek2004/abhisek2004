@@ -37,6 +37,28 @@ Here are some ideas to get you started:
 <br><br><br><br><br><br>
 <br><br><br><br><br><br>-->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<details>
+  <summary>🏆 Certificates</summary>
+  <br>
+
+
+📄 Below is a showcase of my knowledge and skills across a wide range of Competitive Programming and Development.
+<br>
+
+| S.No. | Achievement Name           | Issuing Authority |       Date        | Details                                                                                                                                                                       | Credential |
+| :---: | :------------------------- | :---------------: | :---------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------- |
+|  1.   | GSSOC’24                   |   GSSOC’24 EXT    | Oct '24 - Present | ctively contributing to open-source projects (65 PRs accepted), showcasing development and practical experience. Rank 1 in GSSOC’24 EXT.                                      | [View]()   |
+|  2.   | Coding World Cup           |   Coding Ninjas   |      Nov'23       | Attained an All-India Rank of 106 by effectively tackling all coding challenges, highlighting strong competitive programming and algorithmic proficiency.                     | [View]()   |
+|  3.   | College Coding Competition | Kaun Banega Coder |      Dec'24       | Secured 1st place by flawlessly solving all 5 advanced coding challenges in a timed competition, showcasing top-tier competitive programming skills against 50+ participants. | [View]()   |
+|  4.   | Hi-Tech                    |     Code-War      |      Mar'24       | Secured 3rd place by successfully tackling 2 out of 3 coding problems, highlighting competitive programming skills.                                                           | [View]()   |
+
+
+
+  
+</details>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <div align="center">
   <p><strong>
     "🎓 College. ☕️ Coffee. 💻 Code. Repeat."
