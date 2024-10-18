@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 </p>
 
 
-<p align="center">"Hi there! I’m 𝐀𝐛𝐡𝐢𝐬𝐞𝐤, My name signifies 'anointing' or 'consecration.' I’m on a journey to build a fulfilling career with dedicated and passionate people who can help me discover my potential. I’m excited to be a key player in a creative and dynamic environment, using my skills to make a positive impact along the way."</p>
+<p align="center">"Hi I’m 𝐀𝐛𝐡𝐢𝐬𝐞𝐤, My name signifies 'anointing' or 'consecration.' I’m on a journey to build a fulfilling career with dedicated and passionate people who can help me discover my potential. I’m excited to be a key player in a creative and dynamic environment, using my skills to make a positive impact along the way."</p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
