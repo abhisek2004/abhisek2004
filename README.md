@@ -48,10 +48,7 @@ Here are some ideas to get you started:
 
 | S.No. | Achievement Name           | Issuing Authority |       Date        | Details                                                                                                                                                                       | Credential |
 | :---: | :------------------------- | :---------------: | :---------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------- |
-|  1.   | GSSOC’24                   |   GSSOC’24 EXT    | Oct '24 - Present | ctively contributing to open-source projects (65 PRs accepted), showcasing development and practical experience. Rank 1 in GSSOC’24 EXT.                                      | [View]()   |
-|  2.   | Coding World Cup           |   Coding Ninjas   |      Nov'23       | Attained an All-India Rank of 106 by effectively tackling all coding challenges, highlighting strong competitive programming and algorithmic proficiency.                     | [View]()   |
-|  3.   | College Coding Competition | Kaun Banega Coder |      Dec'24       | Secured 1st place by flawlessly solving all 5 advanced coding challenges in a timed competition, showcasing top-tier competitive programming skills against 50+ participants. | [View]()   |
-|  4.   | Hi-Tech                    |     Code-War      |      Mar'24       | Secured 3rd place by successfully tackling 2 out of 3 coding problems, highlighting competitive programming skills.                                                           | [View]()   |
+|  1.   | GSSOC’24                   |   GSSOC’24 EXT    | Oct '24 - Present | Actively contributing to open-source projects (04 PRs accepted), showcasing development and practical experience. Rank 250 in GSSOC’24 EXT.                                      | [View]()   |
 
 
 
