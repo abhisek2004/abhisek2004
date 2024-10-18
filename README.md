@@ -226,14 +226,36 @@ Here are some ideas to get you started:
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<td width="50%">
+<!--<td width="50%">
   <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
   <p align="center">
     <a href="https://github.com/abhisek2004/Minor-Project-I-Heart-Failure.git">
       <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisek2004&repo=Minor-Project-I-Heart-Failure&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Minor-Project-I-Heart-Failure" />
     </a>
   </p>
-</td>
+</td>-->
+<div align="center">
+
+  <a>
+    <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
+  </a>
+  
+  <td width="50%">
+    <h3 align="center"><strong>Latest Project</strong></h3>
+    <p align="center">
+      <a href="https://github.com/abhisek2004/Minor-Project-I-Heart-Failure.git">
+        <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisek2004&repo=Minor-Project-I-Heart-Failure&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Minor-Project-I-Heart-Failure" />
+      </a>
+    </p>
+  </td>
+  
+  <a>
+    <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png">
+  </a>
+
+</div>
+
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
