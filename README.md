@@ -289,7 +289,7 @@ Here are some ideas to get you started:
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
 
