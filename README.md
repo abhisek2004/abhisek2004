@@ -204,9 +204,9 @@ Here are some ideas to get you started:
       </p>
     </td>
    <td width="50%">
-     <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png">  
      <h3 align="center"><strong>Additional Stats</strong></h3>
       <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisek2004&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
       </p>
   <h3 align="center"><strong>GitHub Stats</strong></h3>
       <p align="center">
