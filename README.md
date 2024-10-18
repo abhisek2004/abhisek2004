@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
-🌟 **Frontend Enthusiast | MERN, Java & DSA | Aspiring Web Developer**
+🌟 **Frontend Enthusiast | MERN, Java & DSA**
 
 👨‍🎓 I’m currently pursuing a **Bachelor of Technology** in **Computer Science** at **GIET University, Gunupur**. My journey in tech is fueled by a passion for mastering the **MERN Stack**, along with skills in **Java**, and **Data Structures & Algorithms**.
 
