@@ -70,15 +70,18 @@ Here are some ideas to get you started:
 
 <i>&nbsp;
 ✨ "Embrace every challenge with optimism, and let hope light the way!" ✨</i><br><br>
+
 👨‍🎓 I’m currently pursuing a **Bachelor of Technology** in **Computer Science** at **GIET University, Gunupur**. My journey in tech is fueled by a passion for mastering the **MERN Stack**, along with skills in **Java**, and **Data Structures & Algorithms**.
 
 🏫 My academic path began at **St. Xavier's Sr. Secondary School, Jajpur Road**, where I completed both my Intermediate and Matriculation. I thrive on setting ambitious goals and constantly seek opportunities for growth and innovation.
+
+🔥 &nbsp; With an impressive following of 1k+ on [Linkedin](https://www.linkedin.com/in/abhisekpanda2004/).
 
 💬 One of my key strengths is effective communication, which helps me collaborate seamlessly within teams. I am goal-oriented and strive for excellence, fostering a supportive environment for collective success.
 
 🎨 I have a passion for crafting immersive user experiences through **frontend development**. Embracing challenges is part of my journey, and I’m eager to contribute my skills to impactful projects.
 
-🚀 I’m on the lookout for opportunities where I can bring my determination and commitment to teamwork, with aspirations to make meaningful contributions in the world of web development. My dream companies include **Microsoft**, **Samsung**, and **TCS**.
+🚀 I’m on the lookout for opportunities where I can bring my determination and commitment to teamwork, with aspirations to make meaningful contributions in the world of web development. My dream companies include **Microsoft**/ **Samsung**/ **TCS**.
 
 <details>
   <summary>🏆 Certificates</summary>
