@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 
 🏫 My academic path began at **St. Xavier's Sr. Secondary School, Jajpur Road**, where I completed both my Intermediate and Matriculation. I thrive on setting ambitious goals and constantly seek opportunities for growth and innovation.
 
-🔥 &nbsp; With an impressive following of 1k+ on [Linkedin](https://www.linkedin.com/in/abhisekpanda2004/).
+🔥 &nbsp; With an impressive following of 2k+ followers on [Linkedin](https://www.linkedin.com/in/abhisekpanda2004/).
 
 💬 One of my key strengths is effective communication, which helps me collaborate seamlessly within teams. I am goal-oriented and strive for excellence, fostering a supportive environment for collective success.
 
