@@ -68,7 +68,8 @@ Here are some ideas to get you started:
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
-<i>&nbsp;✨ "Embrace every challenge with optimism, and let hope light the way!" ✨</i><br><br>
+<i>&nbsp;
+✨ "Embrace every challenge with optimism, and let hope light the way!" ✨</i><br><br>
 👨‍🎓 I’m currently pursuing a **Bachelor of Technology** in **Computer Science** at **GIET University, Gunupur**. My journey in tech is fueled by a passion for mastering the **MERN Stack**, along with skills in **Java**, and **Data Structures & Algorithms**.
 
 🏫 My academic path began at **St. Xavier's Sr. Secondary School, Jajpur Road**, where I completed both my Intermediate and Matriculation. I thrive on setting ambitious goals and constantly seek opportunities for growth and innovation.
