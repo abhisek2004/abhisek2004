@@ -194,7 +194,7 @@ Here are some ideas to get you started:
   <h2 style="color: #2e8b57;">🌟 Trying to Touch and Learn 1 New Thing Everyday! 🌟</h2>
   <p style="font-size: 18px; color: #555;">
     🌱 Embrace the adventure of learning and personal growth.
-    ✨ Let your curiosity lead you to exciting new horizons!
+    ✨ Let my curiosity lead to exciting new horizons!
   </p>
 
   <img src="https://img.shields.io/badge/Learning-📚-blue" alt="Learning Badge" style="border-radius: 5px;"/>
