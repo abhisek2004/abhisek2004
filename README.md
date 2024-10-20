@@ -138,7 +138,7 @@ Here are some ideas to get you started:
 
 ## 🏆 GSSoC 2024 Extended Badge🪶✨
 
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<div style='display:flex; align-items:left; gap: 10px;' align='center'>
   <div>
     <img src="https://gssoc.girlscript.tech/badges/1.png" width="100px" height="100px" />
     <p>Badge 1: Beginner</p>
