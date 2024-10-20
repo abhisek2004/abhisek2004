@@ -37,6 +37,14 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm ABHISEK PANDA</h1>
 
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=F7D433&center=true&vCenter=true&repeat=false&width=600&lines=Welcome+to+my+GitHub+Profile!" alt="Welcome Message" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=435&lines=MERN+Stack+Developer;Open+Source+Enthusiast;AI%2FML+Explorer;Tech+Innovator" alt="Roles" />
+</div>
+
 ### 🌟 **Frontend Enthusiast | MERN, Java & DSA** | CSE Pre Final Year | Tech Innovator
 
 <div align="center">
