@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-
+### 🌟 About Me
 <i>&nbsp;
 ✨ "Embrace every challenge with optimism, and let hope light the way!" ✨</i><br><br>
 
