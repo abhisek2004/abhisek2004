@@ -139,12 +139,12 @@ Here are some ideas to get you started:
 ## 🏆 GSSoC 2024 Extended Badge🪶✨
 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<!--   <div>
+  <div>
     <img src="https://gssoc.girlscript.tech/badges/1.png" width="100px" height="100px" />
     <p>Badge 1: Beginner</p>
-  </div> -->
-  <img src="https://gssoc.girlscript.tech/badges/1.png" width="100px" height="100px" <p>Badge 1: Beginner</p> />
-  <!--<img src="https://gssoc.girlscript.tech/badges/2.png" width="100px" height="100px" />
+  </div>
+  <!--<img src="https://gssoc.girlscript.tech/badges/1.png" width="100px" height="100px"/>
+  <img src="https://gssoc.girlscript.tech/badges/2.png" width="100px" height="100px" />
   <img src="https://gssoc.girlscript.tech/badges/3.png" width="100px" height="100px" />
   <img src="https://gssoc.girlscript.tech/badges/4.png" width="100px" height="100px" />
   <img src="https://gssoc.girlscript.tech/badges/5.png" width="100px" height="100px" />
