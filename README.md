@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=435&lines=Front-End+Enthusiast;MERN+Stack+Developer;Open+Source+Enthusiast;Tech+Innovator" alt="Roles" />
 </div>
 
-### 🌟 **Frontend Enthusiast | MERN, Java & DSA** | CSE Pre Final Year | Tech Innovator
+### 🌟 **MERN, Java & DSA** | CSE Pre Final Year | Tech Innovator
 
 <div align="center">
   <a href="https://www.linkedin.com/in/abhisekpanda2004/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
