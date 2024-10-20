@@ -138,6 +138,7 @@ Here are some ideas to get you started:
 
 
 ## GSSoC 2024 Extended 🪶✨
+
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
   <div>
     <img src="https://gssoc.girlscript.tech/badges/1.png" width="100px" height="100px" />
