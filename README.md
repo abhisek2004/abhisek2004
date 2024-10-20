@@ -136,8 +136,7 @@ Here are some ideas to get you started:
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<p align="center">🏆 GSSoC 2024 Extended Badge 🪶✨</p>
-
+## 🏆 GSSoC 2024 Extended Badge 🪶✨
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
   <div>
     <img src="https://gssoc.girlscript.tech/badges/1.png" width="100px" height="100px" />
