@@ -430,11 +430,11 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F7D433&center=true&vCenter=true&repeat=false&width=435&lines=Thanks+for+visiting!" alt="Thanks for visiting" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0000FF&center=true&vCenter=true&repeat=false&width=435&lines=Thanks+for+visiting!" alt="Thanks for visiting" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=F7D433&center=true&vCenter=true&width=600&lines=Let's+connect+and+create+together!" alt="Let's connect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0000FF&center=true&vCenter=true&width=600&lines=Let's+connect+and+create+together!" alt="Let's connect" />
 </div>
 
 <!--Footer--> 
