@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=435&lines=MERN+Stack+Developer;Open+Source+Enthusiast;Tech+Innovator" alt="Roles" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=435&lines=Front+End+Enthusiast;MERN+Stack+Developer;Open+Source+Enthusiast;Tech+Innovator" alt="Roles" />
 </div>
 
 ### 🌟 **Frontend Enthusiast | MERN, Java & DSA** | CSE Pre Final Year | Tech Innovator
