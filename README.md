@@ -137,7 +137,7 @@ Here are some ideas to get you started:
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
-<h2 align="center">🏆GSSoC 2024 Extended Badge 🪶✨</h2> 
+<h2 align="center" style="text-decoration: none;">🏆 GSSoC 2024 Extended Badge 🪶✨</h2>
 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
   <div>
