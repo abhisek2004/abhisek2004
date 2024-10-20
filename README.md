@@ -136,6 +136,52 @@ Here are some ideas to get you started:
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+
+## GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+  <div>
+    <img src="https://gssoc.girlscript.tech/badges/1.png" width="100px" height="100px" />
+    <p>Badge 1: Beginner</p>
+  </div>
+  <div>
+    <img src="https://gssoc.girlscript.tech/badges/2.png" width="100px" height="100px" />
+    <p>Badge 2: Intermediate</p>
+  </div>
+  <div>
+    <img src="https://gssoc.girlscript.tech/badges/3.png" width="100px" height="100px" />
+    <p>Badge 3: Contributor</p>
+  </div>
+  <div>
+    <img src="https://gssoc.girlscript.tech/badges/4.png" width="100px" height="100px" />
+    <p>Badge 4: Mentor</p>
+  </div>
+  <div>
+    <img src="https://gssoc.girlscript.tech/badges/5.png" width="100px" height="100px" />
+    <p>Badge 5: Organizer</p>
+  </div>
+  <div>
+    <img src="https://gssoc.girlscript.tech/badges/6.png" width="100px" height="100px" />
+    <p>Badge 6: Lead</p>
+  </div>
+  <div>
+    <img src="https://gssoc.girlscript.tech/badges/7.png" width="100px" height="100px" />
+    <p>Badge 7: Advanced Contributor</p>
+  </div>
+  <div>
+    <img src="https://gssoc.girlscript.tech/badges/8.png" width="100px" height="100px" />
+    <p>Badge 8: Community Builder</p>
+  </div>
+  <div>
+    <img src="https://gssoc.girlscript.tech/badges/9.png" width="100px" height="100px" />
+    <p>Badge 9: Team Player</p>
+  </div>
+  <div>
+    <img src="https://gssoc.girlscript.tech/badges/10.png" width="100px" height="100px" />
+    <p>Badge 10: Champion</p>
+  </div>
+</div>
+
+
 <h3> 📱 Social 🌐 </h3>
 <table>
     <tr>
