@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <!--<h1 align="center">Hi 👋, I'm ABHISEK PANDA</h1>-->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&repeat=false&width=600&lines=>Hi+👋,+I%27m+ABHISEK+PANDA" alt=">Hi 👋, I'm ABHISEK PANDA" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&repeat=false&width=600&lines=> Hi+👋,+I%27m+ABHISEK+PANDA" alt=">Hi 👋, I'm ABHISEK PANDA" />
 </div>
 
 
