@@ -143,7 +143,7 @@ Here are some ideas to get you started:
     <img src="https://gssoc.girlscript.tech/badges/1.png" width="100px" height="100px" />
     <p>Badge 1: Beginner</p>
   </div>
-    <img src="abhisek2004_GSSoC24_Stats" width="100px" height="100px" />
+    <img src="abhisek2004_GSSoC24_Stats.png" width="100px" height="100px" />
   <!--<img src="https://gssoc.girlscript.tech/badges/1.png" width="100px" height="100px"/>
   <img src="https://gssoc.girlscript.tech/badges/2.png" width="100px" height="100px" />
   <img src="https://gssoc.girlscript.tech/badges/3.png" width="100px" height="100px" />
