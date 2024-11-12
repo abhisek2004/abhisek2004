@@ -110,7 +110,7 @@ Here are some ideas to get you started:
 
 | S.No. | Achievement Name           | Issuing Authority |       Date        | Details                                                                                                                                                                       | Credential |
 | :---: | :------------------------- | :---------------: | :---------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------- |
-|  1.   | GSSOC’24                   |   GSSOC’24 EXT    | Oct '24 - Present | Actively contributing to open-source projects (04 PRs accepted), showcasing development and practical experience. Rank 250 in GSSOC’24 EXT.                                      | [View]()   |
+|  1.   | GSSOC’24                   |   GSSOC’24 EXT    | Oct '24 - Present | Actively contributing to open-source projects (04 PRs accepted), showcasing development and practical experience. Rank 250 in GSSOC’24 EXT.                                      | [View](https://drive.google.com/file/d/13KGKct_ihd2EXeVoHCrI3ySilN1PtX7C/view?usp=sharing)   |
 
 
 
