@@ -301,11 +301,11 @@ Here are some ideas to get you started:
       <p align="center">
         <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhisek2004&theme=github_dark" />
       </p>
-      <p align="center">
+<!--       <p align="center">
           <a href="https://github.com/abhisek2004">
               <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abhisek2004" alt="WakaTime Stats" />
           </a>
-      </p>
+      </p> -->
     </td>
    <td width="50%">
      <h3 align="center"><strong>Additional Stats</strong></h3>
