@@ -234,6 +234,13 @@ Here are some ideas to get you started:
 
   <img src="https://img.shields.io/badge/Learning-📚-blue" alt="Learning Badge" style="border-radius: 5px;"/>
 </div>
+
+<div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=27&duration=3200&color=00FF00&center=true&vCenter=true&width=650&lines=Enjoy+Coding..;Code+with+passion+,+create+with+purpose.;Commit+to+your+dreams+,+push+to+GitHub.;Craft+your+dreams+with+code.;Dream+big+,+code+bigger.." alt="Typing SVG" />
+    </h1>
+</div>
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <!-- <br> -->
