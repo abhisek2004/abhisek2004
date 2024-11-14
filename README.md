@@ -92,11 +92,11 @@
 
 🔥 &nbsp; With an impressive following of 2k+ followers on [Linkedin](https://www.linkedin.com/in/abhisekpanda2004/).
 
+🏆 **Trophies - 28**, **Badges - 106** on [Microsoft Learn](https://learn.microsoft.com/en-us/users/AbhisekPanda-1209). These accomplishments reflect my dedication to continuous learning, skill development, and commitment to mastering new technologies.
+
 💬 One of my key strengths is effective communication, which helps me collaborate seamlessly within teams. I am goal-oriented and strive for excellence, fostering a supportive environment for collective success.
 
 🎨 I have a passion for crafting immersive user experiences through **frontend development**. Embracing challenges is part of my journey, and I’m eager to contribute my skills to impactful projects.
-
-🏆 **Trophies - 28**, **Badges - 106** on [Microsoft Learn](https://learn.microsoft.com/en-us/users/AbhisekPanda-1209).
 
 🚀 I’m on the lookout for opportunities where I can bring my determination and commitment to teamwork, with aspirations to make meaningful contributions in the world of web development. My dream companies include **Microsoft**/ **Samsung**/ **TCS**.
 
