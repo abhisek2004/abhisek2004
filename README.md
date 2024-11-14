@@ -134,7 +134,7 @@ Here are some ideas to get you started:
 
 <a href="https://github-profile-trophy.vercel.app/?username=abhisek2004&no-bg=true">
 
-  <img width="2000" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp" alt="Rainbow Superthin" />
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
