@@ -277,6 +277,10 @@
         <td><strong>Deployment Platforms</strong></td>
         <td><img height="40" src="https://skillicons.dev/icons?i=vercel,netlify,github&theme=dark" /></td>
     </tr>
+<tr>
+    <td><strong>Operating Systems</strong></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=windows&theme=dark" /></td>
+</tr>    
 </table>
 <br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
