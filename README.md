@@ -290,7 +290,10 @@
   [![ @abhisek2004's Holopin badges](https://holopin.me/abhisek2004)](https://holopin.io/abhisek2004)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+
+#<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> 📊 GitHub Stats 📊
+
+<!--<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>-->
 <table width="100%">
   <tr>
     <td width="50%">
