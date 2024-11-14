@@ -96,6 +96,8 @@
 
 🎨 I have a passion for crafting immersive user experiences through **frontend development**. Embracing challenges is part of my journey, and I’m eager to contribute my skills to impactful projects.
 
+🏆 **Trophies - 28**, **Badges - 106** on [Microsoft Learn](https://learn.microsoft.com/en-us/users/AbhisekPanda-1209).
+
 🚀 I’m on the lookout for opportunities where I can bring my determination and commitment to teamwork, with aspirations to make meaningful contributions in the world of web development. My dream companies include **Microsoft**/ **Samsung**/ **TCS**.
 
 <details>
