@@ -217,6 +217,22 @@
             </a>
         </td>
     </tr>
+<tr>
+    <td><strong>GeeksforGeeks</strong></td>
+    <td>
+        <a href="https://www.geeksforgeeks.org/" target="blank">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/GeeksforGeeks_logo.svg/500px-GeeksforGeeks_logo.svg.png" alt="GeeksforGeeks" height="30" width="40" />
+        </a>
+    </td>
+</tr>
+<tr>
+    <td><strong>Coding Ninjas</strong></td>
+    <td>
+        <a href="https://www.codingninjas.com/" target="blank">
+            <img src="https://www.codingninjas.com/assets/images/logo-dark.png" alt="Coding Ninjas" height="30" width="40" />
+        </a>
+    </td>
+</tr>
 <!--     <tr>
         <td><strong>Dev.to</strong></td>
         <td>
