@@ -220,7 +220,7 @@
 <tr>
     <td><strong>GeeksforGeeks</strong></td>
     <td>
-        <a href="https://www.geeksforgeeks.org/" target="blank">
+        <a href="https://www.geeksforgeeks.org/user/abhisekpandat6a3/" target="blank">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/GeeksforGeeks_logo.svg/500px-GeeksforGeeks_logo.svg.png" alt="GeeksforGeeks" height="30" width="40" />
         </a>
     </td>
@@ -228,7 +228,7 @@
 <tr>
     <td><strong>Coding Ninjas</strong></td>
     <td>
-        <a href="https://www.codingninjas.com/" target="blank">
+        <a href="https://www.naukri.com/code360/profile/9ef671da-74d1-4b3e-a192-5c1648a7c6ec" target="blank">
             <img src="https://www.codingninjas.com/assets/images/logo-dark.png" alt="Coding Ninjas" height="30" width="40" />
         </a>
     </td>
