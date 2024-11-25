@@ -371,15 +371,14 @@
 
 <hr>
 </details>
-
+<!--
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-<br>
+-->
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
 <!--- Abhisek's Coding Profiles   ----------------------------------------------------------------------------------------------------------------------------->
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
-## Coding Profiles📈
+<!--## Coding Profiles📈
 
 <details>  
 
@@ -392,7 +391,7 @@
       <img src="https://github.com/user-attachments/assets/2d51af11-b520-466b-b571-e3c36f5dfd68" width="100px" height="100px" />
 </div>
 
-</details>
+</details> -->
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
