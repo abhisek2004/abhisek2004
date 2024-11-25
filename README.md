@@ -384,7 +384,32 @@
 
 <details>
     
-
+   <div style='display:flex; align-items:left; gap: 10px;' align='center'>
+      <div>
+         <img src="https://gssoc.girlscript.tech/badges/2.png" width="100px" height="100px" />
+         <p>Badge 2: Daily Coding</p>
+      </div>
+      <div>
+         <img src="https://gssoc.girlscript.tech/badges/3.png" width="100px" height="100px" />
+         <p>Badge 3: August Coding</p>
+      </div>
+      <div>
+         <img src="https://gssoc.girlscript.tech/badges/4.png" width="100px" height="100px" />
+         <p>Badge 4: September Coding</p>
+      </div>
+      <div>
+         <img src="https://gssoc.girlscript.tech/badges/5.png" width="100px" height="100px" />
+         <p>Badge 5: 50 Days Coding</p>
+      </div>
+      <div>
+         <img src="https://gssoc.girlscript.tech/badges/6.png" width="100px" height="100px" />
+         <p>Badge 6: October Coding</p>
+      </div>
+      <div>
+         <img src="https://gssoc.girlscript.tech/badges/7.png" width="100px" height="100px" />
+         <p>Badge 7: 100 Days Coding</p>
+      </div>
+   </div>
        
 </details>
 
