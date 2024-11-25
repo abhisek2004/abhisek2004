@@ -384,32 +384,39 @@
 
 <details>
     
-   <div style='display:flex; align-items:left; gap: 10px;' align='center'>
+   <div style='display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;' align='center'>
       <div>
          <img src="https://gssoc.girlscript.tech/badges/2.png" width="100px" height="100px" />
-         <p>Badge 2: Daily Coding</p>
+         <p>Badge 1: Daily Coding</p>
       </div>
       <div>
          <img src="https://gssoc.girlscript.tech/badges/3.png" width="100px" height="100px" />
-         <p>Badge 3: August Coding</p>
+         <p>Badge 2: August Coding</p>
       </div>
       <div>
          <img src="https://gssoc.girlscript.tech/badges/4.png" width="100px" height="100px" />
-         <p>Badge 4: September Coding</p>
+         <p>Badge 3: September Coding</p>
       </div>
       <div>
          <img src="https://gssoc.girlscript.tech/badges/5.png" width="100px" height="100px" />
-         <p>Badge 5: 50 Days Coding</p>
+         <p>Badge 4: 50 Days Coding</p>
       </div>
       <div>
          <img src="https://gssoc.girlscript.tech/badges/6.png" width="100px" height="100px" />
-         <p>Badge 6: October Coding</p>
+         <p>Badge 5: October Coding</p>
       </div>
       <div>
          <img src="https://gssoc.girlscript.tech/badges/7.png" width="100px" height="100px" />
-         <p>Badge 7: 100 Days Coding</p>
+         <p>Badge 6: 100 Days Coding</p>
       </div>
    </div>
+
+![coin](https://github.com/user-attachments/assets/9f23c014-9135-49d3-b716-acb6d3ebaf51)
+![2024-100-new](https://github.com/user-attachments/assets/2d51af11-b520-466b-b571-e3c36f5dfd68)
+![2024-50](https://github.com/user-attachments/assets/2da416ee-3b99-4a56-8ac0-69f2873d0fb6)
+![2024-09](https://github.com/user-attachments/assets/563aaacd-a44a-464f-9309-91034762e62a)
+![2024-08](https://github.com/user-attachments/assets/0c34fa5a-1bba-4b6c-b9e0-72cbd6add8dc)
+![2024-10](https://github.com/user-attachments/assets/4af91a60-f036-4c22-9fff-5b4e43fe67c4)
        
 </details>
 
