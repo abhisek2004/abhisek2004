@@ -384,6 +384,14 @@
 
 <details>
     
+   <div style='display:flex; align-items:left; gap: 10px;' align='center'>
+  <div>
+    <img src="https://gssoc.girlscript.tech/badges/1.png" width="100px" height="100px" />
+    <p>Badge 1: Beginner</p>
+  </div>
+
+
+       
 </details>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
