@@ -384,12 +384,6 @@
 
 <details>
     
-   <div style='display:flex; align-items:left; gap: 10px;' align='center'>
-  <div>
-    <img src="https://gssoc.girlscript.tech/badges/1.png" width="100px" height="100px" />
-    <p>Badge 1: Beginner</p>
-  </div>
-
 
        
 </details>
@@ -421,8 +415,6 @@
 
 <!--Dynamic Quote card updates everyday at 12 PM--> 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-
-
 
 
 
