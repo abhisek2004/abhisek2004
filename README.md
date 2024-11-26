@@ -313,7 +313,7 @@
 
 <h3>Holopin badges👀 </h3>
  
-  [![ @abhisek2004's Holopin badges](https://holopin.me/abhisek2004)](https://holopin.io/abhisek2004)
+  [![ @abhisek2004's Holopin badges](https://holopin.me/abhisek2004)](https://www.holopin.io/@abhisek2004#)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
