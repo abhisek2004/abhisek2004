@@ -149,12 +149,7 @@
 
 ## 🏆 GSSoC 2024 Extended Badge🪶✨
 
-<div style='display:flex; align-items:left; gap: 10px;' align='center'>
-  <div>
-    <img src="https://gssoc.girlscript.tech/badges/1.png" width="100px" height="100px" />
-    <p>Badge 1: Beginner</p>
-  </div>
-    <details>	
+<div style='display:flex; align-items:left; gap: 10px;' align='center'>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
@@ -171,8 +166,15 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
-</details>
 <details>
+    <summary><b>GSSOC(24)Extended Badge🪶✨</b></summary><br>
+      <div>
+    <img src="https://gssoc.girlscript.tech/badges/1.png" width="100px" height="100px" />
+    <p>Badge 1: Beginner</p>
+          <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" />
+  </div>
     <img src="abhisek2004_GSSoC24_Stats.png" height="80%" width="100%" />
   <!--<img src="https://gssoc.girlscript.tech/badges/1.png" width="100px" height="100px"/>
   <img src="https://gssoc.girlscript.tech/badges/2.png" width="100px" height="100px" />
