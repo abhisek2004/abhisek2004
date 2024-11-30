@@ -416,6 +416,29 @@
       <img src="https://github.com/user-attachments/assets/4af91a60-f036-4c22-9fff-5b4e43fe67c4" width="100px" height="100px" />
       <img src="https://github.com/user-attachments/assets/2d51af11-b520-466b-b571-e3c36f5dfd68" width="100px" height="100px" />
 </div>-->
+
+<h1>My Hackerrank Badges 🎖️</h1>
+
+<table style="width:100%; border: 1px solid #ddd; border-collapse: collapse;" align="center">
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+      <img src="https://github.com/user-attachments/assets/f3ccdd19-02fe-40ca-9301-11d1569aaaea" width="100px" height="100px" />
+    </td>
+    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+      <img src="https://github.com/user-attachments/assets/665a148d-5893-44dc-bfab-76c4dd4eb5e3" width="100px" height="100px" />
+    </td>
+    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+      <img src="https://github.com/user-attachments/assets/35842bd0-a9d3-4b7e-b146-99d2d71b5431" width="100px" height="100px" />
+    </td>
+    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+      <img src="https://github.com/user-attachments/assets/aa8e7aef-a6dd-4a50-bab2-b452adbae11e" width="100px" height="100px" />
+    </td>
+    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+      <img src="https://github.com/user-attachments/assets/d54fd26d-2040-478e-a578-ebcb8d6d6f76" width="100px" height="100px" />
+    </td>
+  </tr>
+</table>
+
 <h1>My Hackerrank Badges 🎖️</h1>
 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
