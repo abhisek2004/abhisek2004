@@ -424,15 +424,6 @@
 <img src="https://github.com/user-attachments/assets/aa8e7aef-a6dd-4a50-bab2-b452adbae11e" width="100px" height="100px" />
 <img src="https://github.com/user-attachments/assets/d54fd26d-2040-478e-a578-ebcb8d6d6f76" width="100px" height="100px" />
 
-
-![Screenshot 2024-11-30 165250](https://github.com/user-attachments/assets/665a148d-5893-44dc-bfab-76c4dd4eb5e3)xx
-
-![Screenshot 2024-11-30 165257](https://github.com/user-attachments/assets/35842bd0-a9d3-4b7e-b146-99d2d71b5431) xx
-
-![Screenshot 2024-11-30 165245](https://github.com/user-attachments/assets/aa8e7aef-a6dd-4a50-bab2-b452adbae11e)xx
-
-![Screenshot 2024-11-30 165240](https://github.com/user-attachments/assets/d54fd26d-2040-478e-a578-ebcb8d6d6f76)xx
-
 </div>
 
 </details>
