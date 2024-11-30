@@ -457,7 +457,32 @@
   </tr>
 </table>
 
+<h1>My GeeksforGeeks Badges 🎖️</h1>
 
+<table style="width:100%; border: 1px solid #ddd; border-collapse: collapse;" align="center">
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+<img src="https://github.com/user-attachments/assets/619f5722-81c6-43ee-85d6-35eced880da0" width="100px" height="100px" />
+    </td>
+  </tr>
+</table>
+
+![coin-GFG-GIF_2(1)-1667467528](https://github.com/user-attachments/assets/619f5722-81c6-43ee-85d6-35eced880da0)
+
+<h1>My Coding Ninjas Badges 🎖️</h1>
+
+<table style="width:100%; border: 1px solid #ddd; border-collapse: collapse;" align="center">
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+<img src="https://github.com/user-attachments/assets/e83c7338-c16e-4ca2-b795-89d94b305608" width="100px" height="100px" />
+    </td>
+    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+<img src="https://github.com/user-attachments/assets/e83c7338-c16e-4ca2-b795-89d94b305608" width="100px" height="100px" />
+    </td>
+  </tr>
+</table>
+
+![badge-beginner-4xl-23110-34745](https://github.com/user-attachments/assets/e83c7338-c16e-4ca2-b795-89d94b305608)
 
 </details>
 
