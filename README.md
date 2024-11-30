@@ -416,6 +416,8 @@
       <img src="https://github.com/user-attachments/assets/4af91a60-f036-4c22-9fff-5b4e43fe67c4" width="100px" height="100px" />
       <img src="https://github.com/user-attachments/assets/2d51af11-b520-466b-b571-e3c36f5dfd68" width="100px" height="100px" />
 </div>-->
+<h1>My Hackerrank Badges 🎖️</h1>
+
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 
 <img src="https://github.com/user-attachments/assets/f3ccdd19-02fe-40ca-9301-11d1569aaaea" width="100px" height="100px" />
