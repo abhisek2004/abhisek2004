@@ -419,7 +419,7 @@
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <img src="https://github.com/user-attachments/assets/9f23c014-9135-49d3-b716-acb6d3ebaf51" width="100px" height="100px" />
 
-![Screenshot 2024-11-30 164501](https://github.com/user-attachments/assets/f3ccdd19-02fe-40ca-9301-11d1569aaaea)
+<img src="https://github.com/user-attachments/assets/f3ccdd19-02fe-40ca-9301-11d1569aaaea" width="100px" height="100px" />
 
 
 
