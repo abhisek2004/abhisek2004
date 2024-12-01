@@ -438,8 +438,6 @@
   </tr>
 </table>
 
-![1733044247969](https://github.com/user-attachments/assets/c96b3b2c-662e-451d-ac2e-60a6b0e6c3bf)
-
 <h1>My Hackerrank Badges 🎖️</h1>
 
 <table style="width:100%; border: 1px solid #ddd; border-collapse: collapse;" align="center">
