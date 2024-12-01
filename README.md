@@ -435,6 +435,9 @@
     <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
       <img src="https://github.com/user-attachments/assets/c96b3b2c-662e-451d-ac2e-60a6b0e6c3bf" width="100px" height="100px" />
     </td> 
+    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+      <img src="https://github.com/user-attachments/assets/79ba07ba-eadd-4cb4-83c9-43e756821b78" width="100px" height="100px" />
+    </td> 
   </tr>
 </table>
 
