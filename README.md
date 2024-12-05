@@ -501,8 +501,6 @@
   </tr>
 </table>
 
-![Screenshot 2024-12-05 200207](https://github.com/user-attachments/assets/c1e7d729-0d18-4d47-8462-0a3503708f83)
-
 </details>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
