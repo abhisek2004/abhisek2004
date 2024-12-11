@@ -457,8 +457,6 @@
     <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
       <img src="https://github.com/user-attachments/assets/aa8e7aef-a6dd-4a50-bab2-b452adbae11e" width="100px" height="100px" />
     </td>
-      </tr>
-    <tr>
     <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
       <img src="https://github.com/user-attachments/assets/d54fd26d-2040-478e-a578-ebcb8d6d6f76" width="100px" height="100px" />
     </td>
