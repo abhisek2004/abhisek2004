@@ -416,9 +416,9 @@
     <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
       <img src="https://github.com/user-attachments/assets/9f23c014-9135-49d3-b716-acb6d3ebaf51" width="100px" height="100px" />
     </td>
-    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-      <img src=" https://github.com/user-attachments/assets/49e7f32e-6175-4a2b-a5e9-f93d08d3e5df" width="100px" height="100px" />
-    </td>
+<td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+  <img src="https://github.com/user-attachments/assets/17c5ef59-41d8-4609-a811-63b8e87874a9" width="100px" height="100px" />
+</td>
     <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
       <img src="https://github.com/user-attachments/assets/0c34fa5a-1bba-4b6c-b9e0-72cbd6add8dc" width="100px" height="100px" />
     </td>
