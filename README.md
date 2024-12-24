@@ -441,10 +441,13 @@
       <img src="https://github.com/user-attachments/assets/c96b3b2c-662e-451d-ac2e-60a6b0e6c3bf" width="100px" height="100px" />
     </td> 
     <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/79ba07ba-eadd-4cb4-83c9-43e756821b78" width="100px" height="100px" />
-    </td> 
+  <img src="https://github.com/user-attachments/assets/061314f0-1a0d-4ef0-a4dc-fcf4deff75c8" width="100px" height="100px" />
+</td> 
   </tr>
 </table>
+
+![68747470733a2f2f666173746c792e6a7364656c6976722e6e65742f67682f646f6f63732f6c656574636f6465406d61696e2f696d616765732f4b6e696768742e676966](https://github.com/user-attachments/assets/061314f0-1a0d-4ef0-a4dc-fcf4deff75c8)
+
 
 <h1>My Hackerrank Badges 🎖️</h1>
 
