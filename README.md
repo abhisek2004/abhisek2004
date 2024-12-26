@@ -565,7 +565,7 @@
       <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
   <img src="https://github.com/user-attachments/assets/39bfe859-3c83-44f6-a15d-93523d2b89d7" width="100px" height="100px" /> 
           <br> 
-        3 (MASTER)
+        6 (MASTER)
 </td>
   </tr>
 </table>
