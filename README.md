@@ -488,17 +488,17 @@
         <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
 <img src="https://github.com/user-attachments/assets/e83c7338-c16e-4ca2-b795-89d94b305608" width="100px" height="100px"  /> 
             <br>
-        18 ( ACHIEVER )
+        x18 ( ACHIEVER )
     </td>
         <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
 <img src="https://github.com/user-attachments/assets/c1e7d729-0d18-4d47-8462-0a3503708f83" width="100px" height="100px" /> 
             <br> 
-        11 (SPECIALIST)
+        x11 (SPECIALIST)
     </td>
       <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
   <img src="https://github.com/user-attachments/assets/39bfe859-3c83-44f6-a15d-93523d2b89d7" width="100px" height="100px" /> 
           <br> 
-        6 (MASTER)
+        x6 (MASTER)
 </td>
   </tr>
 </table>
