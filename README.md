@@ -484,7 +484,7 @@
 <h1>My Coding Ninjas Badges 🎖️</h1>
 
 <table style="width:100%; border: 1px solid #ddd; border-collapse: collapse;" align="center">
- <tr>
+ <!--<tr>
     <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
 <img src="https://github.com/user-attachments/assets/e83c7338-c16e-4ca2-b795-89d94b305608" width="100px" height="100px" />
     </td>
@@ -550,16 +550,16 @@
         <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
 <img src="https://github.com/user-attachments/assets/e83c7338-c16e-4ca2-b795-89d94b305608" width="100px" height="100px" />
     </td>
-  </tr>  
+  </tr>  -->
     <tr>
       <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-  <img src="https://github.com/user-attachments/assets/39bfe859-3c83-44f6-a15d-93523d2b89d7" width="100px" height="100px" />
+  <img src="https://github.com/user-attachments/assets/39bfe859-3c83-44f6-a15d-93523d2b89d7" width="100px" height="100px" /> 3
 </td>
         <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-<img src="https://github.com/user-attachments/assets/e83c7338-c16e-4ca2-b795-89d94b305608" width="100px" height="100px" />
+<img src="https://github.com/user-attachments/assets/e83c7338-c16e-4ca2-b795-89d94b305608" width="100px" height="100px"  /> 14 
     </td> 
         <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-<img src="https://github.com/user-attachments/assets/c1e7d729-0d18-4d47-8462-0a3503708f83" width="100px" height="100px" />
+<img src="https://github.com/user-attachments/assets/c1e7d729-0d18-4d47-8462-0a3503708f83" width="100px" height="100px" /> 6
     </td>
   </tr>
 </table>
