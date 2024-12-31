@@ -452,8 +452,6 @@
     </tr>
 </table>
 
-![2024-12](https://github.com/user-attachments/assets/7af27c7b-e3eb-49b7-aecb-b3b294d29150)
-
 <h1>My Hackerrank Badges 🎖️</h1>
 
 <table style="width:100%; border: 1px solid #ddd; border-collapse: collapse;" align="center">
