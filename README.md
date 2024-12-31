@@ -447,7 +447,7 @@
   <img src="https://github.com/user-attachments/assets/061314f0-1a0d-4ef0-a4dc-fcf4deff75c8" width="100px" height="100px" />
 </td>
         <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-    <img src="https://github.com/user-attachments/assets/061314f0-1a0d-4ef0-a4dc-fcf4deff75c8" width="100px" height="100px" />
+    <img src="https://github.com/user-attachments/assets/7af27c7b-e3eb-49b7-aecb-b3b294d29150" width="100px" height="100px" />
 </td>
     </tr>
 </table>
