@@ -442,6 +442,11 @@
   <img src="https://github.com/user-attachments/assets/061314f0-1a0d-4ef0-a4dc-fcf4deff75c8" width="100px" height="100px" />
 </td> 
   </tr>
+    <tr>
+    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+  <img src="https://github.com/user-attachments/assets/061314f0-1a0d-4ef0-a4dc-fcf4deff75c8" width="100px" height="100px" />
+</td>
+    </tr>
 </table>
 
 <h1>My Hackerrank Badges 🎖️</h1>
