@@ -501,7 +501,7 @@
       <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
   <img src="https://github.com/user-attachments/assets/39bfe859-3c83-44f6-a15d-93523d2b89d7" width="100px" height="100px" /> 
           <br> 
-        x6 (MASTER)
+        x13 (MASTER)
 </td>
   </tr>
 </table>
