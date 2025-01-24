@@ -384,11 +384,8 @@
       <p align="center">
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisek2004&theme=dark" alt="Streak Stats" />
       </p>   
-       <"https://user-images.githubusercontent.com/20955511/183303694-e5cd3ee9-2158-41ed-8ad6-20ca7f1298cf.png" />
-<p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisek2004&theme=dark" alt="GitHub Streak Stats" />
-</p>
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=abhisek2004" alt="GitHub Streak" /></a>
+       
   <h3 align="center"><strong>🔝 Top Contributed Repo</strong></h3>
       <p align="center">
         <img align="center" src="https://github-contributor-stats.vercel.app/api?username=abhisek2004&=5&theme=github_dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
