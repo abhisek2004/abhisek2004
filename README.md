@@ -382,8 +382,10 @@
       </p>
    <h3 align="center"><strong>Streak Stats</strong></h3>
       <p align="center">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisek2004&theme=dark" alt="Streak Stats" />
-          <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=abhisek2004" alt="GitHub Streak" /></a>
+<!--         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisek2004&theme=dark" alt="Streak Stats" /> -->
+<!--           <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=abhisek2004" alt="GitHub Streak" /></a> -->
+          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisek2004&theme=dark" alt="Streak Stats" />
+
       </p>   
 <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=abhisek2004&theme=dark " alt="GitHub Streak" /></a> -->
        
