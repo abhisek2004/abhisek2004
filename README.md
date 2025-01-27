@@ -379,7 +379,6 @@
   <h3 align="center"><strong>GitHub Stats</strong></h3>
       <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=abhisek2004&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
-<img src="https://user-images.githubusercontent.com/20955511/183303806-4ce9e5bb-6bd7-4914-a4ff-47edee01bde3.png" />
       </p>
    <h3 align="center"><strong>Streak Stats</strong></h3>
       <p align="center">
