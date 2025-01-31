@@ -249,12 +249,12 @@
         </td>
     </tr>
     <tr>
-        <td><strong>Coding Ninjas</strong></td>
+<!--         <td><strong>Coding Ninjas</strong></td>
         <td>
             <a href="https://www.naukri.com/code360/profile/9ef671da-74d1-4b3e-a192-5c1648a7c6ec" target="blank">
                 <img src="https://www.codingninjas.com/assets/images/logo-dark.png" alt="Coding Ninjas" height="30" width="40" />
             </a>
-        </td>
+        </td> -->
     </tr>
 <!--     <tr>
         <td><strong>Dev.to</strong></td>
