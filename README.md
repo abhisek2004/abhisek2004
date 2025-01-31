@@ -248,14 +248,14 @@
             </a>
         </td>
     </tr>
-    <tr>
+<!--     <tr>
         <td><strong>Codolio</strong></td>
         <td>
             <a href="https://codolio.com/profile/abhisek2004/card" target="_blank">
         <img src="https://codolio.com/path-to-codolio-logo.png" alt="Codolio" height="30" width="40" />
     </a>
         </td>
-    </tr>
+    </tr> -->
 <!--     <tr> -->
 <!--         <td><strong>Coding Ninjas</strong></td>
         <td>
