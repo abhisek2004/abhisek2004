@@ -251,9 +251,9 @@
     <tr>
         <td><strong>Codolio</strong></td>
         <td>
-            <a href="https://www.geeksforgeeks.org/user/abhisekpandat6a3/" target="blank">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/GeeksforGeeks.svg/500px-GeeksforGeeks.svg.png" alt="GeeksforGeeks" height="30" width="40" />
-            </a>
+            <a href="https://codolio.com/profile/abhisek2004/card" target="_blank">
+        <img src="https://codolio.com/path-to-codolio-logo.png" alt="Codolio" height="30" width="40" />
+    </a>
         </td>
     </tr>
 <!--     <tr> -->
