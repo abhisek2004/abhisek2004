@@ -86,7 +86,7 @@
 
 🏫 My academic path began at **St. Xavier's Sr. Secondary School, Jajpur Road**, where I completed both my Intermediate and Matriculation. I thrive on setting ambitious goals and constantly seek opportunities for growth and innovation.
 
-🔥 &nbsp; With an impressive following of 3k+ followers on [Linkedin](https://www.linkedin.com/in/abhisekpanda2004/).
+🔥 &nbsp; With an impressive following of 4k+ followers on [Linkedin](https://www.linkedin.com/in/abhisekpanda2004/).
 
 🏆 **Trophies - 28**, **Badges - 106** on [Microsoft Learn](https://learn.microsoft.com/en-us/users/AbhisekPanda-1209). These accomplishments reflect my dedication to continuous learning, skill development, and commitment to mastering new technologies.
 
