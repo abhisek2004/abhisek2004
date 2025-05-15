@@ -532,10 +532,12 @@
 <td width="50%">
   <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
   <p align="center">
-    <a href="https://github.com/abhisek2004/Infotact_DS-ML.git">
-      <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisek2004&repo=https://github.com/abhisek2004/Infotact_DS-ML.git&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Infotact_DS-ML" />
-</a>
-  </p>
+  <a href="https://github.com/abhisek2004/Infotact_DS-ML">
+    <img align="center" width="470" 
+         src="https://github-readme-stats.vercel.app/api/pin/?username=abhisek2004&repo=Infotact_DS-ML&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" 
+         alt="Infotact_DS-ML" />
+  </a>
+</p>
 </td>
 
 
