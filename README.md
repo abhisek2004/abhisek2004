@@ -19,6 +19,7 @@
 <!--<h1 align="center">Hi 👋, I'm ABHISEK PANDA</h1>-->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&repeat=false&width=600&lines=Hi+👋,+I%27m+ABHISEK+PANDA" alt="Hi 👋, I'm ABHISEK PANDA" />
+    <img align="center" width="400" src="https://github.com/mistaluai/mistaluai/blob/main/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?raw=true" alt="coding gif">
 </div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
