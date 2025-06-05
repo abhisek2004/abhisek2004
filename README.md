@@ -393,13 +393,9 @@
     </td>
    <td width="50%">
  <h3 align="center"><strong>GitRoll Badge</strong></h3>
-<p align="center">
-  <a href="https://gitroll.io/profile/abhisek2004" target="_blank">
-    <img src="https://gitroll.io/api/badges/profiles/v1/abhisek2004?theme=github-dark&hide_border=true" height="200" alt="GitRoll Profile Badge" />
-  </a>
-</p>
-
-       
+<a href="https://gitroll.io/profile/abhisek2004" target="_blank">
+  <img src="https://gitroll.io/api/badges/profiles/v1/abhisek2004?theme=github-dark&hide_border=true" height="200" alt="GitRoll Profile Badge" />
+</a>
   <h3 align="center"><strong>GitHub Stats</strong></h3>
       <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=abhisek2004&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
