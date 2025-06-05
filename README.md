@@ -395,9 +395,9 @@
 <h3 align="center"><strong>GitRoll Profile</strong></h3>
 <p align="center">
   <a href="https://gitroll.io/profile/uZyeuqKpdO8TXQO6NhQ6V0TTvPZG2" target="_blank">
-    <img src="https://gitroll.io/api/badges/profiles/v1/uZyeuqKpdO8TXQO6NhQ6V0TTvPZG2?theme=dark" alt="GitRoll Profile Badge" />
+    <img src="https://gitroll.io/api/badges/profiles/v1/uZyeuqKpdO8TXQO6NhQ6V0TTvPZG2?theme=tokyoNight" alt="GitRoll Profile Badge" />
   </a>
-</p> 
+</p>
   <h3 align="center"><strong>GitHub Stats</strong></h3>
       <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=abhisek2004&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
