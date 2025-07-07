@@ -8,6 +8,8 @@
 <div style="text-align: center;">
     <img alt="coding" height="400" src="./Guddul.png">
 </div>
+
+
 <!-- <img align="right" alt="coading" width="900" src="./abhisekpanda.png"> -->
 
 <!-- Night Owl image -->
