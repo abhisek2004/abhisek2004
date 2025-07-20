@@ -577,7 +577,8 @@
 
 ![snake gif](https://github.com/myselfshivams/myselfshivams/blob/output/github-contribution-grid-snake-dark.svg)
 
-![snake animation](https://raw.githubusercontent.com/abhisek2004/abhisek2004/output/github-contribution-grid-snake2.svg)
+![snake gif](https://raw.githubusercontent.com/myselfshivams/myselfshivams/output/github-contribution-grid-snake-dark.svg)
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
