@@ -2,13 +2,14 @@
 
 <!--![logo](https://github.com/abhisek2004/abhisek2004/blob/main/Web%20Developer%20Banner.png)-->
 
-
 <!-- <h3 align="center"> MERN , JAVA & DSA || Web Developer || 🌟 Frontend Enthusiast || BTech CSE</h3> -->
 <!-- <img align="right" alt="coading" width="900" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif"> -->
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;">
 <div style="text-align: center;">
     <img alt="coding" height="400" src="./Guddul.png">
 </div>
+
+
 <!-- <img align="right" alt="coading" width="900" src="./abhisekpanda.png"> -->
 
 <!-- Night Owl image -->
@@ -19,6 +20,7 @@
 <!--<h1 align="center">Hi 👋, I'm ABHISEK PANDA</h1>-->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&repeat=false&width=600&lines=Hi+👋,+I%27m+ABHISEK+PANDA" alt="Hi 👋, I'm ABHISEK PANDA" />
+    <img align="center" width="400" src="https://github.com/mistaluai/mistaluai/blob/main/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?raw=true" alt="coding gif">
 </div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -30,7 +32,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=435&lines=Front-End+Enthusiast;MERN+Stack+Developer;Open+Source+Enthusiast;Tech+Innovator" alt="Roles" />
 </div>
 
-### 🌟 **MERN, Java & DSA** | CSE Pre Final Year | Tech Innovator
+### 🌟 **MERN, Java & DSA** | CSE Final Year | Tech Innovator
 
 <div align="center">
   <a href="https://www.linkedin.com/in/abhisekpanda2004/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
@@ -86,7 +88,7 @@
 
 🏫 My academic path began at **St. Xavier's Sr. Secondary School, Jajpur Road**, where I completed both my Intermediate and Matriculation. I thrive on setting ambitious goals and constantly seek opportunities for growth and innovation.
 
-🔥 &nbsp; With an impressive following of 3k+ followers on [Linkedin](https://www.linkedin.com/in/abhisekpanda2004/).
+🔥 &nbsp; With an impressive following of 4k+ followers on [Linkedin](https://www.linkedin.com/in/abhisekpanda2004/).
 
 🏆 **Trophies - 28**, **Badges - 106** on [Microsoft Learn](https://learn.microsoft.com/en-us/users/AbhisekPanda-1209). These accomplishments reflect my dedication to continuous learning, skill development, and commitment to mastering new technologies.
 
@@ -94,7 +96,7 @@
 
 🎨 I have a passion for crafting immersive user experiences through **frontend development**. Embracing challenges is part of my journey, and I’m eager to contribute my skills to impactful projects.
 
-🚀 I’m on the lookout for opportunities where I can bring my determination and commitment to teamwork, with aspirations to make meaningful contributions in the world of web development. My dream companies include **Microsoft**/ **Samsung**/ **TCS**.
+🚀 I’m on the lookout for opportunities where I can bring my determination and commitment to teamwork, with aspirations to make meaningful contributions in the world of web development. My dream companies include **Samsung**/ **TCS**.
 
 <details>
   <summary>🏆 Certificates</summary>
@@ -112,7 +114,9 @@
 |  4.   | 🎉 Backend Development Course        |   Physics Wallah 🚀📚    | 3rd March 2024         | The course was incredibly rewarding, offering in-depth learning and hands-on experience in Backend Development 🚀, JavaScript 💻, JavaScript Superpowers ⚡️, NodeJS 🧩, MongoDB 📊, REST APIs 🌐, and Express JS 🛠️, and I’m immensely grateful to the instructors and the Physics Wallah community for their support 🌍🙏. 💼📈🌟! | [View](https://drive.google.com/file/d/1eron6MRiXYx1wVnVJohw03YWhF0v5g7D/view?usp=sharing)   |
 |  5.   | 🎉 Python (Basic) course        |   HackerRank 🚀📚    | 26 May 2024  | I successfully completed the Python (Basic) Certificate Test on May 24, 2024 🎉,🏅, showcasing my foundational proficiency in Python 🐍💻. 💼📈🌟! | [View](https://drive.google.com/file/d/14gyM4XUWeTRKc31VuvQyVbNGglxdY4wG/view?usp=sharing)   |
 |  6.   | 🎉 Java Basic course        |   HackerRank 🚀📚    | 26 May 2024         | This certification demonstrates my proficiency in Java fundamentals, paving the way for exciting opportunities in software development 🚀💻🎉🌟📚💡👨‍💻👩‍💻🎯🔧🚀 Keep leveraging your skills and exploring new horizons in the world of programming! 🌍💻💪 | [View](https://drive.google.com/file/d/18hEGWNeext5AgJQ23DBAyVFXfWMoeyze/view?usp=sharing)   |
-|  7.   | 🎉 CSS course        |    HackerRank 🚀📚    | 26 May 2024     | This accomplishment showcases your proficiency in Cascading Style Sheets 🎨💻🌟, marking a significant step in your journey towards mastering web design and development 🚀👨‍💻👩‍💻💪💡📐🎯 Keep up the excellent work! 🙌🎉 | [View](https://drive.google.com/file/d/1tK3HEWY2JC3d1GR6-9UAMiwURG7YgrfH/view?usp=sharing)   |
+|  7.   | 🎉 CSS course        |    HackerRank 🚀📚    | 26 May 2024     | I'm excited to share that I've gained proficiency in **Cascading Style Sheets (CSS)** 🎨💻🌟! This marks a significant milestone in my journey toward mastering web design and development 🚀👨‍💻👩‍💻. I’m proud of how far I’ve come, and I can’t wait to continue pushing myself further 💪💡📐🎯. On to the next challenge—let’s keep this momentum going! 🙌🎉 | [View](https://drive.google.com/file/d/1tK3HEWY2JC3d1GR6-9UAMiwURG7YgrfH/view?usp=sharing)   |
+|  8.   | 🎉 Full Stack Web Development With MERN STACK & GenAI 2025       |    Udemy 🚀📚    | 05 FEB 2025     |  I’m thrilled to share that I’ve completed the Full Stack Web Development with MERN Stack & GenAI course in 2025, as taught by Masyntech Coding School and Aditya Mandal on Udemy! 🎉💻 This certificate reflects the hard work and dedication I’ve put into mastering the MERN stack, along with GenAI technologies. 🚀👨‍💻👩‍💻 It's been an amazing journey, and I'm excited to continue growing as a developer, creating dynamic and powerful web applications. 💡💪 On to the next challenge! 🙌 | [View](https://www.udemy.com/certificate/UC-30befd4c-e71a-47a2-9750-5e95567b3cd2/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com)   |
+|  9.   | 🎉  100 Days of Code: The Complete Python Pro Bootcamp      |    Udemy 🚀📚    | 05 FEB 2025     | I’m excited to announce that I’ve completed the **100 Days of Code: The Complete Python Pro Bootcamp** on 02/05/2025, as taught by **Dr. Angela Yu**, Developer and Lead Instructor on Udemy! 🎉💻 This accomplishment marks a huge step in my journey to mastering Python and programming fundamentals 🚀👨‍💻👩‍💻. The certificate confirms that I’ve completed the full course, and I’m thrilled with the progress I’ve made! 💪💡 Onward to even bigger challenges as I continue to grow and apply what I’ve learned! 🙌🎯 | [View](https://www.udemy.com/certificate/UC-c4dca015-3705-4d60-ac84-2589f382c326/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com)   |
 
 
 </details>
@@ -357,10 +361,12 @@
       <p align="center">
         <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhisek2004&theme=github_dark" />
       </p>
-  <h3 align="center"><strong>Mᴏsᴛ Cᴏᴍᴍɪᴛ Lᴀɴɢᴜᴀɢᴇ</strong></h3>
+        
+<!--   <h3 align="center"><strong>Mᴏsᴛ Cᴏᴍᴍɪᴛ Lᴀɴɢᴜᴀɢᴇ</strong></h3>
       <p align="center">
         <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhisek2004&theme=github_dark" />
-      </p>
+      </p> -->
+        
    <h3 align="center"><strong>Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhisek2004&theme=github_dark" />
@@ -369,33 +375,38 @@
       <p align="center">
         <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhisek2004&theme=github_dark" />
       </p>
-  <h3 align="center"><strong>Additional Stats</strong></h3>
-      <p align="center">
+  
+ <!--  <h3 align="center"><strong>Additional Stats</strong></h3> -->
+<!--       <p align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisek2004&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-      </p>
+      </p> -->
+      
    <h3 align="center"><strong>Pʀᴏfɪʟᴇ Dᴇᴛᴀɪʟs</strong></h3>
       <p align="center">
         <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhisek2004&theme=github_dark" />
       </p>
-<!--       <p align="center">
+    <h3 align="center"><strong>Wake Time Working</strong></h3>
+       <p align="center">
           <a href="https://github.com/abhisek2004">
-              <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abhisek2004" alt="WakaTime Stats" />
+              <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abhisek2004&theme=dark" alt="WakaTime Stats" />
           </a>
-      </p> -->
+      </p>
     </td>
    <td width="50%">
+<h3 align="center"><strong>GitRoll Profile</strong></h3>
+<p align="center">
+  <a href="https://gitroll.io/profile/uZyeuqKpdO8TXQO6NhQ6V0TTvPZG2" target="_blank">
+    <img src="https://gitroll.io/api/badges/profiles/v1/uZyeuqKpdO8TXQO6NhQ6V0TTvPZG2?theme=tokyoNight" alt="GitRoll Profile Badge" />
+  </a>
+</p>
   <h3 align="center"><strong>GitHub Stats</strong></h3>
       <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=abhisek2004&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
       </p>
    <h3 align="center"><strong>Streak Stats</strong></h3>
       <p align="center">
-<!--         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisek2004&theme=dark" alt="Streak Stats" /> -->
-<!--           <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=abhisek2004" alt="GitHub Streak" /></a> -->
-          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisek2004&theme=dark" alt="Streak Stats" />
-      </p>   
-<!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=abhisek2004&theme=dark " alt="GitHub Streak" /></a> -->
-       
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisek2004&theme=dark" alt="Streak Stats" />
+      </p>          
   <h3 align="center"><strong>🔝 Top Contributed Repo</strong></h3>
       <p align="center">
         <img align="center" src="https://github-contributor-stats.vercel.app/api?username=abhisek2004&=5&theme=github_dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
@@ -529,10 +540,12 @@
 <td width="50%">
   <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
   <p align="center">
-    <a href="https://github.com/abhisek2004/Minor-Project-II--Sentiment-Analysis-of-Twitter-Conversations">
-      <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisek2004&repo=Minor-Project-II--Sentiment-Analysis-of-Twitter-Conversations&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Minor-Project-II-Sentiment-Analysis" />
-</a>
-  </p>
+  <a href="https://github.com/abhisek2004/Infotact_DS-ML">
+    <img align="center" width="470" 
+         src="https://github-readme-stats.vercel.app/api/pin/?username=abhisek2004&repo=Infotact_DS-ML&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" 
+         alt="Infotact_DS-ML" />
+  </a>
+</p>
 </td>
 
 
@@ -617,8 +630,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
-
-
 
 
 <!--
