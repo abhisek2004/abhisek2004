@@ -406,120 +406,6 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<!--------------------------------------------------------------------------------------------------------------------------------------------------------->
-<!--- Abhisek's Coding Profiles   ----------------------------------------------------------------------------------------------------------------------------->
-<!--------------------------------------------------------------------------------------------------------------------------------------------------------->
-<!--## Coding Profiles📈
-
-<details>  
-
-
-<h1>My Leet Code Badges 🎖️</h1>
-
-<table style="width:100%; border: 1px solid #ddd; border-collapse: collapse;" align="center">
-  <tr>
-    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/9f23c014-9135-49d3-b716-acb6d3ebaf51" width="100px" height="100px" />
-    </td>
-<td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-  <img src="https://github.com/user-attachments/assets/17c5ef59-41d8-4609-a811-63b8e87874a9" width="100px" height="100px" />
-</td>
-    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/0c34fa5a-1bba-4b6c-b9e0-72cbd6add8dc" width="100px" height="100px" />
-    </td>
-    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/563aaacd-a44a-464f-9309-91034762e62a" width="100px" height="100px" />
-    </td>
-    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/2da416ee-3b99-4a56-8ac0-69f2873d0fb6" width="100px" height="100px" />
-    </td>
-      </tr>
-    <tr>
-        <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/4af91a60-f036-4c22-9fff-5b4e43fe67c4" width="100px" height="100px" />
-    </td>
-        <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/2d51af11-b520-466b-b571-e3c36f5dfd68" width="100px" height="100px" />
-    </td>
-    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/c96b3b2c-662e-451d-ac2e-60a6b0e6c3bf" width="100px" height="100px" />
-    </td> 
-    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-  <img src="https://github.com/user-attachments/assets/061314f0-1a0d-4ef0-a4dc-fcf4deff75c8" width="100px" height="100px" />
-</td> 
-    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-  <img src="https://github.com/user-attachments/assets/061314f0-1a0d-4ef0-a4dc-fcf4deff75c8" width="100px" height="100px" />
-</td> 
-  </tr>
-    <tr>
-    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-  <img src="https://github.com/user-attachments/assets/061314f0-1a0d-4ef0-a4dc-fcf4deff75c8" width="100px" height="100px" />
-</td>
-        <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-    <img src="https://github.com/user-attachments/assets/7af27c7b-e3eb-49b7-aecb-b3b294d29150" width="100px" height="100px" />
-</td>
-    </tr>
-</table>
-
-<h1>My Hackerrank Badges 🎖️</h1>
-
-<table style="width:100%; border: 1px solid #ddd; border-collapse: collapse;" align="center">
-  <tr>
-    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/f3ccdd19-02fe-40ca-9301-11d1569aaaea" width="100px" height="100px" />
-    </td>
-    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/665a148d-5893-44dc-bfab-76c4dd4eb5e3" width="100px" height="100px" />
-    </td>
-    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/35842bd0-a9d3-4b7e-b146-99d2d71b5431" width="100px" height="100px" />
-    </td>
-    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/aa8e7aef-a6dd-4a50-bab2-b452adbae11e" width="100px" height="100px" />
-    </td>
-    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/d54fd26d-2040-478e-a578-ebcb8d6d6f76" width="100px" height="100px" />
-    </td>
-  </tr>
-</table>
-
-<h1>My GeeksforGeeks Badges 🎖️</h1>
-
-<table style="width:100%; border: 1px solid #ddd; border-collapse: collapse;" align="center">
-  <tr>
-    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-<img src="https://github.com/user-attachments/assets/619f5722-81c6-43ee-85d6-35eced880da0" width="100px" height="100px" />
-    </td>
-  </tr>
-</table>
-
-<h1>My Coding Ninjas Badges 🎖️</h1>
-
-<table style="width:100%; border: 1px solid #ddd; border-collapse: collapse;" align="center">
-    <tr>
-        <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-<img src="https://github.com/user-attachments/assets/e83c7338-c16e-4ca2-b795-89d94b305608" width="100px" height="100px"  /> 
-            <br>
-        x18 ( ACHIEVER )
-    </td>
-        <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-<img src="https://github.com/user-attachments/assets/c1e7d729-0d18-4d47-8462-0a3503708f83" width="100px" height="100px" /> 
-            <br> 
-        x17 (SPECIALIST)
-    </td>
-      <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
-  <img src="https://github.com/user-attachments/assets/39bfe859-3c83-44f6-a15d-93523d2b89d7" width="100px" height="100px" /> 
-          <br> 
-        x16 (MASTER)
-</td>
-  </tr>
-</table>
-
-![Screenshot 2025-01-15 151253](https://github.com/user-attachments/assets/4ce05b06-515b-4dab-a7f9-0bfbafe3c854)
-
-
-
-</details>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />-->
 
@@ -597,9 +483,6 @@
 </a>
 </div>
 <br/>
-
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisek2004&label=Profile%20views&color=0e75b6&style=flat" alt="abhisek2004" /> </p>
 
