@@ -305,7 +305,7 @@
 <table>
     <tr>
         <td><strong>Frontend Technologies</strong></td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind&theme=dark" /></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,react,typescript,bootstrap,tailwind&theme=dark" /></td>
     </tr>
     <tr>
         <td><strong>Backend Development</strong></td>
@@ -320,9 +320,13 @@
         <td><img height="40" src="https://skillicons.dev/icons?i=java&theme=dark" /></td>
     </tr>
     <tr>
-        <td><strong>Developer Tools</strong></td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,postman,vscode,cursor,TRAE&theme=dark" /></td>
-    </tr>
+    <td><strong>Developer Tools</strong></td>
+    <td>
+        <img height="40" src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" />
+        <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Cursor_icon.svg/512px-Cursor_icon.svg.png" alt="Cursor" />
+        <img height="40" src="https://your-trae-icon-url-here.png" alt="TRAE" />
+    </td>
+</tr>
     <tr>
         <td><strong>Design Tools</strong></td>
         <td><img height="40" src="https://skillicons.dev/icons?i=figma,canva,excalidraw&theme=dark" /></td>
