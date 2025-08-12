@@ -323,8 +323,8 @@
     <td><strong>Developer Tools</strong></td>
     <td>
         <img height="40" src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" />
-        <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Cursor_icon.svg/512px-Cursor_icon.svg.png" alt="Cursor" />
-        <img height="40" src="https://your-trae-icon-url-here.png" alt="TRAE" />
+        <img height="40" src="https://paulstamatiou.com/_next/image?url=%2Fgear%2Fcursor-app-icon.png&w=3840&q=75" alt="Cursor" />
+        <img height="40" src="https://media.tekpon.com/2025/04/Trae-AI-logo.webp" alt="TRAE" />
     </td>
 </tr>
     <tr>
