@@ -252,30 +252,6 @@
             </a>
         </td>
     </tr>
-<!--     <tr>
-        <td><strong>Codolio</strong></td>
-        <td>
-            <a href="https://codolio.com/profile/abhisek2004/card" target="_blank">
-        <img src="https://codolio.com/path-to-codolio-logo.png" alt="Codolio" height="30" width="40" />
-    </a>
-        </td>
-    </tr> -->
-<!--     <tr> -->
-<!--         <td><strong>Coding Ninjas</strong></td>
-        <td>
-            <a href="https://www.naukri.com/code360/profile/9ef671da-74d1-4b3e-a192-5c1648a7c6ec" target="blank">
-                <img src="https://www.codingninjas.com/assets/images/logo-dark.png" alt="Coding Ninjas" height="30" width="40" />
-            </a>
-        </td> -->
-<!--     </tr> -->
-<!--     <tr>
-        <td><strong>Dev.to</strong></td>
-        <td>
-            <a href="https://dev.to/abhisek_panda" target="blank">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Dev_to_logo.svg/2048px-Dev_to_logo.svg.png" alt="abhisek_panda" height="30" width="40" />
-            </a>
-        </td>
-    </tr> -->
 </table>
 
 
@@ -328,13 +304,20 @@
     </td>
 </tr>
     <tr>
-        <td><strong>Design Tools</strong></td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=figma,canva,excalidraw&theme=dark" /></td>
-    </tr>
+    <td><strong>Design Tools</strong></td>
+    <td>
+        <img height="40" src="https://skillicons.dev/icons?i=figma&theme=dark" />
+        <img height="40" src="https://yt3.googleusercontent.com/M7S2_gnnaJT5buAfWW4tanX9NELz5PddzNCQgnRV1oP8t12s5pg4cYKMChkEoh8gtGX__KtcYKU=s900-c-k-c0x00ffffff-no-rj" alt="Canva" />
+        <img height="40" src="https://images.seeklogo.com/logo-png/54/1/excalidraw-logo-png_seeklogo-548100.png" alt="Excalidraw" />
+    </td>
+</tr>
     <tr>
-        <td><strong>Deployment Platforms</strong></td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vercel,render,github&theme=dark" /></td>
-    </tr>
+    <td><strong>Deployment Platforms</strong></td>
+    <td>
+        <img height="40" src="https://skillicons.dev/icons?i=vercel,github&theme=dark" />
+        <img height="40" src="https://pbs.twimg.com/profile_images/1735429515541938176/zOO1N7Su_400x400.jpg" alt="Render" />
+    </td>
+</tr>
 <tr>
     <td><strong>Operating Systems</strong></td>
     <td><img height="40" src="https://skillicons.dev/icons?i=windows&theme=dark" /></td>
