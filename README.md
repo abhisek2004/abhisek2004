@@ -308,7 +308,6 @@
     <td>
         <img height="40" src="https://skillicons.dev/icons?i=figma&theme=dark" />
         <img height="40" src="https://yt3.googleusercontent.com/M7S2_gnnaJT5buAfWW4tanX9NELz5PddzNCQgnRV1oP8t12s5pg4cYKMChkEoh8gtGX__KtcYKU=s900-c-k-c0x00ffffff-no-rj" alt="Canva" />
-        <img height="40" src="https://images.seeklogo.com/logo-png/54/2/excalidraw-logo-png_seeklogo-548100.png" alt="Excalidraw" />
     </td>
 </tr>
     <tr>
