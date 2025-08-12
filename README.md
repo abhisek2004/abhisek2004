@@ -304,32 +304,32 @@
 
 <table>
     <tr>
-        <td><strong>Programming Languages</strong></td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=c,cpp,java,python&theme=dark" /></td>
-    </tr>
-    <tr>
-        <td><strong>Database Technologies</strong></td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mongodb,firebase,mysql&theme=dark" /></td>
-    </tr>
-    <tr>
         <td><strong>Frontend Technologies</strong></td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,jquery&theme=dark" /></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind&theme=dark" /></td>
     </tr>
     <tr>
         <td><strong>Backend Development</strong></td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" /></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=js,nodejs,express&theme=dark" /></td>
+    </tr>
+    <tr>
+        <td><strong>Database Technologies</strong></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=mongodb&theme=dark" /></td>
+    </tr>
+    <tr>
+        <td><strong>Programming Languages</strong></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=java&theme=dark" /></td>
     </tr>
     <tr>
         <td><strong>Developer Tools</strong></td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode&theme=dark" /></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,postman,vscode,cursor,TRAE&theme=dark" /></td>
     </tr>
     <tr>
         <td><strong>Design Tools</strong></td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=figma,canva,adobephotoshop,adobepremierepro,excalidraw&theme=dark" /></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=figma,canva,excalidraw&theme=dark" /></td>
     </tr>
-<tr>
+    <tr>
         <td><strong>Deployment Platforms</strong></td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vercel,netlify,github&theme=dark" /></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vercel,render,github&theme=dark" /></td>
     </tr>
 <tr>
     <td><strong>Operating Systems</strong></td>
