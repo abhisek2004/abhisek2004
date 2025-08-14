@@ -176,12 +176,6 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" />
   </div>
     <img src="abhisek2004_GSSoC24_Stats.png" height="80%" width="100%" />
-  <!--<img src="https://gssoc.girlscript.tech/badges/1.png" width="100px" height="100px"/>
-  <img src="https://gssoc.girlscript.tech/badges/2.png" width="100px" height="100px" />
-  <img src="https://gssoc.girlscript.tech/badges/3.png" width="100px" height="100px" />
-  <img src="https://gssoc.girlscript.tech/badges/4.png" width="100px" height="100px" />
-  <img src="https://gssoc.girlscript.tech/badges/5.png" width="100px" height="100px" />
-  <img src="https://gssoc.girlscript.tech/badges/6.png" width="100px" height="100px" />-->
 </div>
 </details>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
