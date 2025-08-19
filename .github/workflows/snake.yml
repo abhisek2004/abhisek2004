@@ -3,7 +3,7 @@ name: Generate Snake Animation
 on:
   schedule: # Runs every 24 hours
     - cron: "0 0 * * *"
-  workflow_dispatch: # Allow running manually
+  workflow_dispatch: # Allow manual run
 
 jobs:
   build:
@@ -13,7 +13,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate snake.svg
+      - name: Generate snake
         uses: Platane/snk@v3
         with:
           github_user_name: abhisek2004
