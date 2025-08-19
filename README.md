@@ -491,3 +491,12 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
+
+
+
+
+### 🐍 Contribution Snake
+
+![github-snake](https://github.com/abhisek2004/abhisek2004/blob/output/github-snake.svg)
+![github-snake-dark](https://github.com/abhisek2004/abhisek2004/blob/output/github-snake-dark.svg#gh-dark-mode-only)
+![ocean](https://github.com/abhisek2004/abhisek2004/blob/output/ocean.gif)
