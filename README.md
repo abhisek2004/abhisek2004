@@ -190,14 +190,14 @@
             </a>
         </td>
     </tr> -->
-    <tr>
+<!--     <tr>
         <td><strong>CodeChef</strong></td>
         <td>
             <a href="https://www.codechef.com/users/abhisekpanda03" target="blank">
                 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="abhisekpanda03" height="30" width="40" />
             </a>
         </td>
-    </tr>
+    </tr> -->
     <tr>
         <td><strong>HackerRank</strong></td>
         <td>
@@ -238,14 +238,14 @@
             </a>
         </td>
     </tr>
-    <tr>
+<!--     <tr>
         <td><strong>GeeksforGeeks</strong></td>
         <td>
             <a href="https://www.geeksforgeeks.org/user/abhisekpandat6a3/" target="blank">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/GeeksforGeeks.svg/500px-GeeksforGeeks.svg.png" alt="GeeksforGeeks" height="30" width="40" />
             </a>
         </td>
-    </tr>
+    </tr> -->
 </table>
 
 
