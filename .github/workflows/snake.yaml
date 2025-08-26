@@ -1,27 +1,28 @@
 name: Generate Snake
-on: 
-  # Allows to manually run the job at any time.
+
+on:
   workflow_dispatch:
-  # Run on every push on the master branch.
   push:
     branches:
-    - master
+      - main  # Use 'main' as the default branch
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      # Generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>.
-      - name: generate-snake-game-from-github-contribution-grid
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate snake game from GitHub contribution grid (light + dark)
         uses: Platane/snk@v3.0.0
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: abhisek2004
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      # Push the content of <build_dir> to a branch.
-      # The content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file>, or as github page.
-      - name: push github-contribution-grid-snake.svg to the output branch
+
+      - name: Deploy SVGs to GitHub Pages (output branch)
         uses: crazy-max/ghaction-github-pages@v2.6.0
         with:
           target_branch: output
