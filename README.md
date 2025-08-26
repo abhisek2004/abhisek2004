@@ -182,14 +182,14 @@
 
 <h3> 📱 Social 🌐 </h3>
 <table>
-    <tr>
+<!--     <tr>
         <td><strong>CodePen</strong></td>
         <td>
             <a href="https://codepen.io/abhisek2003panda" target="blank">
                 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abhisek2003panda" height="30" width="40" />
             </a>
         </td>
-    </tr>
+    </tr> -->
     <tr>
         <td><strong>CodeChef</strong></td>
         <td>
@@ -206,14 +206,14 @@
             </a>
         </td>
     </tr>
-    <tr>
+<!--     <tr>
         <td><strong>Codeforces</strong></td>
         <td>
             <a href="https://codeforces.com/profile/abhisek_2003" target="blank">
                 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abhisek_2003" height="30" width="40" />
             </a>
         </td>
-    </tr>
+    </tr> -->
     <tr>
         <td><strong>LeetCode</strong></td>
         <td>
@@ -222,14 +222,14 @@
             </a>
         </td>
     </tr>
-    <tr>
+<!--     <tr>
         <td><strong>HackerEarth</strong></td>
         <td>
             <a href="https://www.hackerearth.com/@abhisekpanda" target="blank">
                 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@abhisekpanda" height="30" width="40" />
             </a>
         </td>
-    </tr>
+    </tr> -->
     <tr>
         <td><strong>Discord</strong></td>
         <td>
