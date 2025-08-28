@@ -139,9 +139,6 @@
 
 <a href="https://github-profile-trophy.vercel.app/?username=abhisek2004&no-bg=true">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" height="80%" width="100%">
 
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ BAR 📈</h2>
