@@ -60,7 +60,7 @@
 
 <p align="center">
   <a href="https://portfolio-nine-rosy-72.vercel.app/">
-    <img src="https://skillicons.dev/icons?i=mysql,react,nodejs,express,mongodb,git,github" /> 
+    <img src="https://skillicons.dev/icons?i=typescript,react,nodejs,express,mongodb,git,github" /> 
   </a>
 </p>
 
