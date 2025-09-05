@@ -355,11 +355,6 @@
       <p align="center">
         <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhisek2004&theme=github_dark" />
       </p>
-  
- <!--  <h3 align="center"><strong>Additional Stats</strong></h3> -->
-<!--       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisek2004&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-      </p> -->
       
    <h3 align="center"><strong>Pʀᴏfɪʟᴇ Dᴇᴛᴀɪʟs</strong></h3>
       <p align="center">
