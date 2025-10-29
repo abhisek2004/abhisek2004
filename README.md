@@ -153,8 +153,6 @@
 
 <h2 align="center">🏆 GSSoC Badge 🪶✨</h2>
 
-## 🏆 GSSoC Badge🪶✨
-
 <div style='display:flex; align-items:left; gap: 10px;' align='center'>	
    
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
