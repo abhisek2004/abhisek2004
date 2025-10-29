@@ -167,6 +167,8 @@
   <img src="https://github.com/user-attachments/assets/f0a7cad5-aa85-40e5-8b24-9a7072801a75" width="100px" height="100px" /></a>
 </div>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 ## 🏆 SSOC Badge🪶✨
 
 <div style='display:flex; align-items:left; gap: 10px;' align='center'>	
