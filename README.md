@@ -503,6 +503,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhisek2004&label=Profile%20views&color=0e75b6&style=flat" alt="abhisek2004" /> </p>
 
+<h3 align="center">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60"><br>
+  <strong>
+    <span style="
+      background: linear-gradient(90deg, #00DBDE, #FC00FF);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      font-size: 22px;
+      font-family: 'Poppins', sans-serif;
+      letter-spacing: 1px;
+    ">
+      “Code is poetry written in logic”
+    </span>
+  </strong><br>
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="120">
+</h3>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0000FF&center=true&vCenter=true&repeat=false&width=435&lines=Thanks+for+visiting!" alt="Thanks for visiting" />
