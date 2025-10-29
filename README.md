@@ -408,7 +408,7 @@
   <h3 align="center"><strong>🔝 Top Contributed Repo</strong></h3>
       <p align="center">
         <!-- <img align="center" src="https://github-contributor-stats.vercel.app/api?username=abhisek2004&=5&theme=github_dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" /> -->
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=abhisek2004&limit=15&theme=github_dark&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
+         <img align="center" src="https://github-contributor-stats.vercel.app/api?username=abhisek2004&limit=20&theme=github_dark&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
       </p>
     </td>
   </tr>
