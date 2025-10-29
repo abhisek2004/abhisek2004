@@ -151,7 +151,7 @@
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Badges
 
-<summary><b>🏆 View Digital Badges</b></summary>
+<h2 align="center">🏆 GSSoC Badge 🪶✨</h2>
 
 ## 🏆 GSSoC Badge🪶✨
 
