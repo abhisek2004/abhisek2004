@@ -76,6 +76,10 @@
 
 ### 🌟 About Me
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
+
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding" width="400" />
+
 <i>&nbsp;
 ✨ "Embrace every challenge with optimism, and let hope light the way!" ✨</i><br><br>
 
