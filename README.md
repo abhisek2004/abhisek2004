@@ -391,7 +391,12 @@
       </p>
     </td>
    <td width="50%">
-<h3 align="center"><strong>GitRoll Profile</strong></h3>
+<!-- <h3 align="center"><strong>GitRoll Profile</strong></h3> -->
+<h3 align="center">
+  <strong>
+    <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="35"> GitHub Analytics
+  </strong>
+</h3>
 <p align="center">
   <a href="https://gitroll.io/profile/uZyeuqKpdO8TXQO6NhQ6V0TTvPZG2" target="_blank">
     <img src="https://gitroll.io/api/badges/profiles/v1/uZyeuqKpdO8TXQO6NhQ6V0TTvPZG2?theme=tokyoNight" alt="GitRoll Profile Badge" />
