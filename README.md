@@ -146,7 +146,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## 🏆 GSSoC 2024 Badge🪶✨
+## 🏆 GSSoC Badge🪶✨
 
 <div style='display:flex; align-items:left; gap: 10px;' align='center'>	
 <!--  <summary><b>GSSOC(24) Badges 🪶</b></summary><br> -->
@@ -164,7 +164,9 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
+  <img src="https://github.com/user-attachments/assets/f0a7cad5-aa85-40e5-8b24-9a7072801a75" width="100px" height="100px" /></a>
 </div>
+
 
 <!--
 <details>
