@@ -167,7 +167,14 @@
   <img src="https://github.com/user-attachments/assets/f0a7cad5-aa85-40e5-8b24-9a7072801a75" width="100px" height="100px" /></a>
 </div>
 
+## 🏆 SSOC Badge🪶✨
 
+<div style='display:flex; align-items:left; gap: 10px;' align='center'>	
+
+<img src="https://github.com/user-attachments/assets/f2c7a967-8549-48d7-ba66-3b1c8bac7f24" width="100px" height="100px" /></a>
+
+</div>
+  
 <!--
 <details>
     <summary><b>GSSOC(24)Extended Badge🪶✨</b></summary><br>
