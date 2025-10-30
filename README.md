@@ -65,14 +65,14 @@
 <i>&nbsp;
 ✨ "Embrace every challenge with optimism, and let hope light the way!" ✨</i><br><br>
 
-### 🌟 **MERN, Java & DSA** | CSE Final Year | Tech Innovator
+### 🌟 Founder at DevElevate || Frontend Enthusiast || **MERN, Java & DSA** || CSE Final Year || Tech Innovator
 
 <br>
 
 <p align="center">"Hi I’m 𝐀𝐛𝐡𝐢𝐬𝐞𝐤, My name signifies 'anointing' or 'consecration.' I’m on a journey to build a fulfilling career with dedicated and passionate people who can help me discover my potential. I’m excited to be a key player in a creative and dynamic environment, using my skills to make a positive impact along the way."</p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00FFD2&center=true&multiline=true&repeat=false&random=false&width=600&height=120&lines=%F0%9F%94%AD+Currently+working+on+MERN+and+Java+DSA;%F0%9F%91%AF+Looking+to+collaborate+on+Open+Source+projects;%F0%9F%92%AC+Ask+me+about+MERN+stack+and+Web+Development" alt="About Me" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00FFD2&center=true&multiline=true&repeat=false&random=false&width=600&height=120&lines=%F0%9F%94%AD+Currently+working+on+MERN+and+Java+DSA;%F0%9F%91%AF+Looking+to+collaborate+on+Open+Source+projects;%F0%9F%92%AC+Ask+me+about+Web+Development" alt="About Me" />
 </div>
 
 
