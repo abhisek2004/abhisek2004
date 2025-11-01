@@ -358,9 +358,8 @@
       </p>-->
   <h3 align="center"><strong>Pʀᴏᴅᴜᴄᴛɪᴠᴇ Tɪᴍᴇ</strong></h3>
       <p align="center">
-        <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhisek2004&theme=github_dark" />
+        <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhisek2004&theme=github_dark&utcOffset=5" alt="Productive Time Card" />
       </p>
-      
    <h3 align="center"><strong>Pʀᴏfɪʟᴇ Dᴇᴛᴀɪʟs</strong></h3>
       <p align="center">
         <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhisek2004&theme=github_dark" />
