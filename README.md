@@ -385,7 +385,8 @@
 </p>
   <h3 align="center"><strong>GitHub Stats</strong></h3>
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=abhisek2004&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+        <!-- <img src="https://github-readme-stats.vercel.app/api?username=abhisek2004&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" /> -->
+        <img src="https://github-readme-stats.vercel.app/api?username=abhisek2004&show_icons=true&theme=outrun&hide_border=false" alt="GitHub Stats" height="180em" />
       </p>
    <h3 align="center"><strong>Streak Stats</strong></h3>
       <p align="center">
