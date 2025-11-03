@@ -164,23 +164,17 @@
 <img src="https://github.com/user-attachments/assets/f2c7a967-8549-48d7-ba66-3b1c8bac7f24" width="100px" height="100px" /></a>
 
 </div>
-  
-<!--
-<details>
-    <summary><b>GSSOC(24)Extended Badge🪶✨</b></summary><br>
-      <div>
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-    <p>Badge 1: Beginner</p>
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" />
-  </div>
-    <img src="abhisek2004_GSSoC24_Stats.png" height="80%" width="100%" />
-</div>
-</details>
-
--->
     
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+## 🏆 Winter of Code Social ❄ Badge 🪶✨
+
+<div style='display:flex; align-items:left; gap: 10px;' align='center'>	
+
+<img src="https://github.com/user-attachments/assets/e65b8a7c-08a6-4162-9e24-f4c08977d6fa" width="100px" height="100px" /></a>
+
+</div>
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
