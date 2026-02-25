@@ -9,7 +9,6 @@
     <img src="./Guddul.jpg" alt="coding" height="400">
 </div>
 
-
 <!-- <img align="right" alt="coading" width="900" src="./abhisekpanda.png"> -->
 
 <!-- Night Owl image -->
